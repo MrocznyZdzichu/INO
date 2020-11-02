@@ -1,0 +1,701 @@
+INFO:root:Trenuje drzewo o CP: 1e-07
+INFO:root:Czas treningu modelu: 67.1632125377655s
+INFO:root:Czas treningu modelu: 66.72225093841553s
+INFO:root:Czas treningu modelu: 64.78512859344482s
+INFO:root:Czas treningu modelu: 67.02029633522034s
+INFO:root:Czas treningu modelu: 65.55711102485657s
+INFO:root:Wynik biezacego drzewa: 0.0024475658469019384
+INFO:root:Trenuje drzewo o CP: 2e-07
+INFO:root:Czas treningu modelu: 63.04199957847595s
+INFO:root:Czas treningu modelu: 66.61797952651978s
+INFO:root:Czas treningu modelu: 68.47460675239563s
+INFO:root:Czas treningu modelu: 65.57041501998901s
+INFO:root:Czas treningu modelu: 66.3607394695282s
+INFO:root:Wynik biezacego drzewa: 0.003158812231884584
+INFO:root:Trenuje drzewo o CP: 3e-07
+INFO:root:Czas treningu modelu: 66.40792226791382s
+INFO:root:Czas treningu modelu: 56.008861780166626s
+INFO:root:Czas treningu modelu: 49.01799774169922s
+INFO:root:Czas treningu modelu: 49.795047998428345s
+INFO:root:Czas treningu modelu: 67.7488956451416s
+INFO:root:Wynik biezacego drzewa: 0.002313377152532715
+INFO:root:Trenuje drzewo o CP: 4e-07
+INFO:root:Czas treningu modelu: 67.32331991195679s
+INFO:root:Czas treningu modelu: 65.63751912117004s
+INFO:root:Czas treningu modelu: 66.17697954177856s
+INFO:root:Czas treningu modelu: 65.72711753845215s
+INFO:root:Czas treningu modelu: 65.67351722717285s
+INFO:root:Wynik biezacego drzewa: 0.001399829861498862
+INFO:root:Trenuje drzewo o CP: 5e-07
+INFO:root:Czas treningu modelu: 66.09638738632202s
+INFO:root:Czas treningu modelu: 65.09576416015625s
+INFO:root:Czas treningu modelu: 65.15204668045044s
+INFO:root:Czas treningu modelu: 66.49518990516663s
+INFO:root:Czas treningu modelu: 68.27197360992432s
+INFO:root:Wynik biezacego drzewa: 0.0016631240242084048
+INFO:root:Trenuje drzewo o CP: 6e-07
+INFO:root:Czas treningu modelu: 66.86040043830872s
+INFO:root:Czas treningu modelu: 67.09987163543701s
+INFO:root:Czas treningu modelu: 66.9766583442688s
+INFO:root:Czas treningu modelu: 65.91366958618164s
+INFO:root:Czas treningu modelu: 68.26536464691162s
+INFO:root:Wynik biezacego drzewa: 0.0019381996774156438
+INFO:root:Trenuje drzewo o CP: 7e-07
+INFO:root:Czas treningu modelu: 66.02947306632996s
+INFO:root:Czas treningu modelu: 67.22100234031677s
+INFO:root:Czas treningu modelu: 67.35391807556152s
+INFO:root:Czas treningu modelu: 66.27079677581787s
+INFO:root:Czas treningu modelu: 64.44622492790222s
+INFO:root:Wynik biezacego drzewa: 0.0012995717483740212
+INFO:root:Trenuje drzewo o CP: 8e-07
+INFO:root:Czas treningu modelu: 69.91190195083618s
+INFO:root:Czas treningu modelu: 63.987560510635376s
+INFO:root:Czas treningu modelu: 53.58721613883972s
+INFO:root:Czas treningu modelu: 68.61312222480774s
+INFO:root:Czas treningu modelu: 67.10093593597412s
+INFO:root:Wynik biezacego drzewa: 0.00182136572737779
+INFO:root:Trenuje drzewo o CP: 9e-07
+INFO:root:Czas treningu modelu: 65.5671751499176s
+INFO:root:Czas treningu modelu: 66.18047761917114s
+INFO:root:Czas treningu modelu: 65.10281586647034s
+INFO:root:Czas treningu modelu: 66.6601665019989s
+INFO:root:Czas treningu modelu: 64.29375720024109s
+INFO:root:Wynik biezacego drzewa: 0.003866525821309752
+INFO:root:Trenuje drzewo o CP: 1e-06
+INFO:root:Czas treningu modelu: 64.6360809803009s
+INFO:root:Czas treningu modelu: 63.809993743896484s
+INFO:root:Czas treningu modelu: 65.90017318725586s
+INFO:root:Czas treningu modelu: 74.25352215766907s
+INFO:root:Czas treningu modelu: 80.86599922180176s
+INFO:root:Wynik biezacego drzewa: 0.0019950840684336076
+INFO:root:Trenuje drzewo o CP: 1.1e-06
+INFO:root:Czas treningu modelu: 82.0465202331543s
+INFO:root:Czas treningu modelu: 79.38669967651367s
+INFO:root:Czas treningu modelu: 81.8468554019928s
+INFO:root:Czas treningu modelu: 65.7615430355072s
+INFO:root:Czas treningu modelu: 55.43255567550659s
+INFO:root:Wynik biezacego drzewa: 0.0034362937190207153
+INFO:root:Trenuje drzewo o CP: 1.2e-06
+INFO:root:Czas treningu modelu: 53.70794129371643s
+INFO:root:Czas treningu modelu: 59.65214133262634s
+INFO:root:Czas treningu modelu: 60.91052436828613s
+INFO:root:Czas treningu modelu: 68.22667002677917s
+INFO:root:Czas treningu modelu: 58.67566394805908s
+INFO:root:Wynik biezacego drzewa: 0.001937998827444996
+INFO:root:Trenuje drzewo o CP: 1.2999999999999998e-06
+INFO:root:Czas treningu modelu: 60.733514070510864s
+INFO:root:Czas treningu modelu: 59.78754210472107s
+INFO:root:Czas treningu modelu: 64.19426321983337s
+INFO:root:Czas treningu modelu: 62.49703621864319s
+INFO:root:Czas treningu modelu: 51.51430559158325s
+INFO:root:Wynik biezacego drzewa: 0.0026652392953004822
+INFO:root:Trenuje drzewo o CP: 1.3999999999999997e-06
+INFO:root:Czas treningu modelu: 52.68845820426941s
+INFO:root:Czas treningu modelu: 55.607216596603394s
+INFO:root:Czas treningu modelu: 60.663963317871094s
+INFO:root:Czas treningu modelu: 63.03594899177551s
+INFO:root:Czas treningu modelu: 56.97599768638611s
+INFO:root:Wynik biezacego drzewa: 0.0017292662295954509
+INFO:root:Trenuje drzewo o CP: 1.5e-06
+INFO:root:Czas treningu modelu: 54.33999681472778s
+INFO:root:Czas treningu modelu: 52.52400064468384s
+INFO:root:Czas treningu modelu: 62.13652729988098s
+INFO:root:Czas treningu modelu: 55.153258323669434s
+INFO:root:Czas treningu modelu: 53.28452134132385s
+INFO:root:Wynik biezacego drzewa: 0.0023471715733151574
+INFO:root:Trenuje drzewo o CP: 1.6e-06
+INFO:root:Czas treningu modelu: 58.24700450897217s
+INFO:root:Czas treningu modelu: 53.61400246620178s
+INFO:root:Czas treningu modelu: 63.37953329086304s
+INFO:root:Czas treningu modelu: 57.396870374679565s
+INFO:root:Czas treningu modelu: 58.12117910385132s
+INFO:root:Wynik biezacego drzewa: 0.0018582857954496732
+INFO:root:Trenuje drzewo o CP: 1.6999999999999998e-06
+INFO:root:Czas treningu modelu: 58.51695704460144s
+INFO:root:Czas treningu modelu: 56.087005853652954s
+INFO:root:Czas treningu modelu: 58.82537031173706s
+INFO:root:Czas treningu modelu: 57.77297353744507s
+INFO:root:Czas treningu modelu: 55.35823082923889s
+INFO:root:Wynik biezacego drzewa: 0.005723168180044068
+INFO:root:Trenuje drzewo o CP: 1.7999999999999997e-06
+INFO:root:Czas treningu modelu: 60.181469202041626s
+INFO:root:Czas treningu modelu: 57.35913443565369s
+INFO:root:Czas treningu modelu: 61.066492319107056s
+INFO:root:Czas treningu modelu: 63.521352767944336s
+INFO:root:Czas treningu modelu: 59.879488706588745s
+INFO:root:Wynik biezacego drzewa: 0.0014453374118269515
+INFO:root:Trenuje drzewo o CP: 1.9e-06
+INFO:root:Czas treningu modelu: 61.28999924659729s
+INFO:root:Czas treningu modelu: 60.11266851425171s
+INFO:root:Czas treningu modelu: 59.77344036102295s
+INFO:root:Czas treningu modelu: 61.82258868217468s
+INFO:root:Czas treningu modelu: 59.371787309646606s
+INFO:root:Wynik biezacego drzewa: 0.0022740384357442293
+INFO:root:Trenuje drzewo o CP: 2e-06
+INFO:root:Czas treningu modelu: 61.80423593521118s
+INFO:root:Czas treningu modelu: 74.52377343177795s
+INFO:root:Czas treningu modelu: 71.42900037765503s
+INFO:root:Czas treningu modelu: 76.57338786125183s
+INFO:root:Czas treningu modelu: 69.11052513122559s
+INFO:root:Wynik biezacego drzewa: 0.0033909070303610924
+INFO:root:Trenuje drzewo o CP: 2.1e-06
+INFO:root:Czas treningu modelu: 88.73535180091858s
+INFO:root:Czas treningu modelu: 73.7250611782074s
+INFO:root:Czas treningu modelu: 65.4990005493164s
+INFO:root:Czas treningu modelu: 73.85605144500732s
+INFO:root:Czas treningu modelu: 72.66900086402893s
+INFO:root:Wynik biezacego drzewa: 0.0033244753547194885
+INFO:root:Trenuje drzewo o CP: 2.1999999999999997e-06
+INFO:root:Czas treningu modelu: 75.85799908638s
+INFO:root:Czas treningu modelu: 67.68516945838928s
+INFO:root:Czas treningu modelu: 70.4221920967102s
+INFO:root:Czas treningu modelu: 56.92968440055847s
+INFO:root:Czas treningu modelu: 65.17432880401611s
+INFO:root:Wynik biezacego drzewa: 0.003909248127428882
+INFO:root:Trenuje drzewo o CP: 2.3e-06
+INFO:root:Czas treningu modelu: 57.963717222213745s
+INFO:root:Czas treningu modelu: 58.927520513534546s
+INFO:root:Czas treningu modelu: 56.83999991416931s
+INFO:root:Czas treningu modelu: 57.84300208091736s
+INFO:root:Czas treningu modelu: 58.26552391052246s
+INFO:root:Wynik biezacego drzewa: 0.0030595998566964127
+INFO:root:Trenuje drzewo o CP: 2.4e-06
+INFO:root:Czas treningu modelu: 58.4700026512146s
+INFO:root:Czas treningu modelu: 57.66700077056885s
+INFO:root:Czas treningu modelu: 59.16000247001648s
+INFO:root:Czas treningu modelu: 60.33889627456665s
+INFO:root:Czas treningu modelu: 57.45021867752075s
+INFO:root:Wynik biezacego drzewa: 0.0038902517751195904
+INFO:root:Trenuje drzewo o CP: 2.4999999999999998e-06
+INFO:root:Czas treningu modelu: 50.39900016784668s
+INFO:root:Czas treningu modelu: 52.29204607009888s
+INFO:root:Czas treningu modelu: 52.97998571395874s
+INFO:root:Czas treningu modelu: 52.99753260612488s
+INFO:root:Czas treningu modelu: 60.13952279090881s
+INFO:root:Wynik biezacego drzewa: 0.001930997969105524
+INFO:root:Trenuje drzewo o CP: 2.5999999999999997e-06
+INFO:root:Czas treningu modelu: 68.8260006904602s
+INFO:root:Czas treningu modelu: 70.99165177345276s
+INFO:root:Czas treningu modelu: 73.70714282989502s
+INFO:root:Czas treningu modelu: 69.9975221157074s
+INFO:root:Czas treningu modelu: 73.16799688339233s
+INFO:root:Wynik biezacego drzewa: 0.002559570865966284
+INFO:root:Trenuje drzewo o CP: 2.6999999999999996e-06
+INFO:root:Czas treningu modelu: 71.99899482727051s
+INFO:root:Czas treningu modelu: 70.09899950027466s
+INFO:root:Czas treningu modelu: 62.16044211387634s
+INFO:root:Czas treningu modelu: 69.4041006565094s
+INFO:root:Czas treningu modelu: 57.23859119415283s
+INFO:root:Wynik biezacego drzewa: 0.0027936453712886482
+INFO:root:Trenuje drzewo o CP: 2.8e-06
+INFO:root:Czas treningu modelu: 65.07205057144165s
+INFO:root:Czas treningu modelu: 71.65038967132568s
+INFO:root:Czas treningu modelu: 70.11100029945374s
+INFO:root:Czas treningu modelu: 71.9835216999054s
+INFO:root:Czas treningu modelu: 69.35099816322327s
+INFO:root:Wynik biezacego drzewa: 0.0023391479253951812
+INFO:root:Trenuje drzewo o CP: 2.8999999999999998e-06
+INFO:root:Czas treningu modelu: 73.83999300003052s
+INFO:root:Czas treningu modelu: 68.65020728111267s
+INFO:root:Czas treningu modelu: 71.46251964569092s
+INFO:root:Czas treningu modelu: 76.74406886100769s
+INFO:root:Czas treningu modelu: 77.82899785041809s
+INFO:root:Wynik biezacego drzewa: 0.0053412618528866675
+INFO:root:Trenuje drzewo o CP: 2.9999999999999997e-06
+INFO:root:Czas treningu modelu: 75.06653070449829s
+INFO:root:Czas treningu modelu: 74.46200060844421s
+INFO:root:Czas treningu modelu: 87.14797377586365s
+INFO:root:Czas treningu modelu: 68.90605926513672s
+INFO:root:Czas treningu modelu: 67.77053952217102s
+INFO:root:Wynik biezacego drzewa: 0.004094811528941735
+INFO:root:Trenuje drzewo o CP: 3.1e-06
+INFO:root:Czas treningu modelu: 93.96352648735046s
+INFO:root:Czas treningu modelu: 78.76109218597412s
+INFO:root:Czas treningu modelu: 63.43709063529968s
+INFO:root:Czas treningu modelu: 58.821969509124756s
+INFO:root:Czas treningu modelu: 84.37502479553223s
+INFO:root:Wynik biezacego drzewa: 0.0026042846451458414
+INFO:root:Trenuje drzewo o CP: 3.2e-06
+INFO:root:Czas treningu modelu: 82.06600213050842s
+INFO:root:Czas treningu modelu: 79.70052671432495s
+INFO:root:Czas treningu modelu: 77.62500095367432s
+INFO:root:Czas treningu modelu: 80.94282674789429s
+INFO:root:Czas treningu modelu: 79.0729296207428s
+INFO:root:Wynik biezacego drzewa: 0.0020455759268566964
+INFO:root:Trenuje drzewo o CP: 3.2999999999999997e-06
+INFO:root:Czas treningu modelu: 82.60399961471558s
+INFO:root:Czas treningu modelu: 63.10828113555908s
+INFO:root:Czas treningu modelu: 73.47822976112366s
+INFO:root:Czas treningu modelu: 73.43634343147278s
+INFO:root:Czas treningu modelu: 70.24699568748474s
+INFO:root:Wynik biezacego drzewa: 0.004329809715014639
+INFO:root:Trenuje drzewo o CP: 3.3999999999999996e-06
+INFO:root:Czas treningu modelu: 70.79552030563354s
+INFO:root:Czas treningu modelu: 53.74655103683472s
+INFO:root:Czas treningu modelu: 53.770997047424316s
+INFO:root:Czas treningu modelu: 66.5355978012085s
+INFO:root:Czas treningu modelu: 71.76852607727051s
+INFO:root:Wynik biezacego drzewa: 0.0031842723695863777
+INFO:root:Trenuje drzewo o CP: 3.4999999999999995e-06
+INFO:root:Czas treningu modelu: 73.22022318840027s
+INFO:root:Czas treningu modelu: 73.45543241500854s
+INFO:root:Czas treningu modelu: 70.5130021572113s
+INFO:root:Czas treningu modelu: 70.51099705696106s
+INFO:root:Czas treningu modelu: 86.94538760185242s
+INFO:root:Wynik biezacego drzewa: 0.0038589466864908063
+INFO:root:Trenuje drzewo o CP: 3.6e-06
+INFO:root:Czas treningu modelu: 79.91212964057922s
+INFO:root:Czas treningu modelu: 74.76321005821228s
+INFO:root:Czas treningu modelu: 71.14359450340271s
+INFO:root:Czas treningu modelu: 94.75516319274902s
+INFO:root:Czas treningu modelu: 82.60959076881409s
+INFO:root:Wynik biezacego drzewa: 0.0025224772163867605
+INFO:root:Trenuje drzewo o CP: 3.6999999999999997e-06
+INFO:root:Czas treningu modelu: 86.79157638549805s
+INFO:root:Czas treningu modelu: 73.74066162109375s
+INFO:root:Czas treningu modelu: 73.28699851036072s
+INFO:root:Czas treningu modelu: 83.53166508674622s
+INFO:root:Czas treningu modelu: 75.7786877155304s
+INFO:root:Wynik biezacego drzewa: 0.002579085292239046
+INFO:root:Trenuje drzewo o CP: 3.7999999999999996e-06
+INFO:root:Czas treningu modelu: 78.21905446052551s
+INFO:root:Czas treningu modelu: 85.79653000831604s
+INFO:root:Czas treningu modelu: 72.18129253387451s
+INFO:root:Czas treningu modelu: 96.95223212242126s
+INFO:root:Czas treningu modelu: 70.64950633049011s
+INFO:root:Wynik biezacego drzewa: 0.0015768427554202949
+INFO:root:Trenuje drzewo o CP: 3.9e-06
+INFO:root:Czas treningu modelu: 76.49099397659302s
+INFO:root:Czas treningu modelu: 75.67108511924744s
+INFO:root:Czas treningu modelu: 64.65752577781677s
+INFO:root:Czas treningu modelu: 79.1836211681366s
+INFO:root:Czas treningu modelu: 81.78520488739014s
+INFO:root:Wynik biezacego drzewa: 0.002458029077384567
+INFO:root:Trenuje drzewo o CP: 4e-06
+INFO:root:Czas treningu modelu: 64.94316148757935s
+INFO:root:Czas treningu modelu: 51.731746673583984s
+INFO:root:Czas treningu modelu: 47.91500544548035s
+INFO:root:Czas treningu modelu: 48.65311026573181s
+INFO:root:Czas treningu modelu: 49.601558685302734s
+INFO:root:Wynik biezacego drzewa: 0.003623988079249894
+INFO:root:Trenuje drzewo o CP: 4.1e-06
+INFO:root:Czas treningu modelu: 68.39510750770569s
+INFO:root:Czas treningu modelu: 73.7973062992096s
+INFO:root:Czas treningu modelu: 71.27600288391113s
+INFO:root:Czas treningu modelu: 69.75252652168274s
+INFO:root:Czas treningu modelu: 72.25764441490173s
+INFO:root:Wynik biezacego drzewa: 0.0074900914145361285
+INFO:root:Trenuje drzewo o CP: 4.2e-06
+INFO:root:Czas treningu modelu: 73.51036310195923s
+INFO:root:Czas treningu modelu: 70.13179564476013s
+INFO:root:Czas treningu modelu: 73.88899397850037s
+INFO:root:Czas treningu modelu: 75.956383228302s
+INFO:root:Czas treningu modelu: 69.96141934394836s
+INFO:root:Wynik biezacego drzewa: 0.0010590800003160337
+INFO:root:Trenuje drzewo o CP: 4.2999999999999995e-06
+INFO:root:Czas treningu modelu: 72.44964694976807s
+INFO:root:Czas treningu modelu: 70.15797519683838s
+INFO:root:Czas treningu modelu: 71.56899809837341s
+INFO:root:Czas treningu modelu: 71.54361939430237s
+INFO:root:Czas treningu modelu: 72.64491748809814s
+INFO:root:Wynik biezacego drzewa: 0.002245060727645663
+INFO:root:Trenuje drzewo o CP: 4.399999999999999e-06
+INFO:root:Czas treningu modelu: 71.96279096603394s
+INFO:root:Czas treningu modelu: 71.20209074020386s
+INFO:root:Czas treningu modelu: 71.9820249080658s
+INFO:root:Czas treningu modelu: 71.3343415260315s
+INFO:root:Czas treningu modelu: 72.5019998550415s
+INFO:root:Wynik biezacego drzewa: 0.0021430505356801344
+INFO:root:Trenuje drzewo o CP: 4.5e-06
+INFO:root:Czas treningu modelu: 73.97505164146423s
+INFO:root:Czas treningu modelu: 72.19024300575256s
+INFO:root:Czas treningu modelu: 70.94962310791016s
+INFO:root:Czas treningu modelu: 73.65691065788269s
+INFO:root:Czas treningu modelu: 71.14460682868958s
+INFO:root:Wynik biezacego drzewa: 0.0020537307048483734
+INFO:root:Trenuje drzewo o CP: 4.6e-06
+INFO:root:Czas treningu modelu: 72.94944858551025s
+INFO:root:Czas treningu modelu: 71.13308262825012s
+INFO:root:Czas treningu modelu: 72.21406435966492s
+INFO:root:Czas treningu modelu: 72.58572912216187s
+INFO:root:Czas treningu modelu: 74.43481135368347s
+INFO:root:Wynik biezacego drzewa: 0.004061178832509584
+INFO:root:Trenuje drzewo o CP: 4.7e-06
+INFO:root:Czas treningu modelu: 73.94099879264832s
+INFO:root:Czas treningu modelu: 73.00580525398254s
+INFO:root:Czas treningu modelu: 73.12579655647278s
+INFO:root:Czas treningu modelu: 72.20634031295776s
+INFO:root:Czas treningu modelu: 74.35114288330078s
+INFO:root:Wynik biezacego drzewa: 0.0027921697212570395
+INFO:root:Trenuje drzewo o CP: 4.8e-06
+INFO:root:Czas treningu modelu: 71.21650004386902s
+INFO:root:Czas treningu modelu: 75.12601685523987s
+INFO:root:Czas treningu modelu: 70.99016165733337s
+INFO:root:Czas treningu modelu: 70.84087181091309s
+INFO:root:Czas treningu modelu: 73.21200394630432s
+INFO:root:Wynik biezacego drzewa: 0.0030666296227134134
+INFO:root:Trenuje drzewo o CP: 4.9e-06
+INFO:root:Czas treningu modelu: 71.97243809700012s
+INFO:root:Czas treningu modelu: 72.72361278533936s
+INFO:root:Czas treningu modelu: 75.12362122535706s
+INFO:root:Czas treningu modelu: 73.20174384117126s
+INFO:root:Czas treningu modelu: 70.04923009872437s
+INFO:root:Wynik biezacego drzewa: 0.0021227254554736135
+INFO:root:Trenuje drzewo o CP: 4.9999999999999996e-06
+INFO:root:Czas treningu modelu: 69.4563398361206s
+INFO:root:Czas treningu modelu: 72.17653203010559s
+INFO:root:Czas treningu modelu: 73.06460165977478s
+INFO:root:Czas treningu modelu: 71.05402112007141s
+INFO:root:Czas treningu modelu: 72.11184430122375s
+INFO:root:Wynik biezacego drzewa: 0.0027181441193019833
+INFO:root:Trenuje drzewo o CP: 5.0999999999999995e-06
+INFO:root:Czas treningu modelu: 75.40566968917847s
+INFO:root:Czas treningu modelu: 69.54763197898865s
+INFO:root:Czas treningu modelu: 70.49016094207764s
+INFO:root:Czas treningu modelu: 70.12574577331543s
+INFO:root:Czas treningu modelu: 71.3504810333252s
+INFO:root:Wynik biezacego drzewa: 0.00467026973308447
+INFO:root:Trenuje drzewo o CP: 5.199999999999999e-06
+INFO:root:Czas treningu modelu: 72.41306567192078s
+INFO:root:Czas treningu modelu: 73.44423747062683s
+INFO:root:Czas treningu modelu: 69.9998300075531s
+INFO:root:Czas treningu modelu: 69.99752688407898s
+INFO:root:Czas treningu modelu: 71.1900041103363s
+INFO:root:Wynik biezacego drzewa: 0.004149198800814481
+INFO:root:Trenuje drzewo o CP: 5.299999999999999e-06
+INFO:root:Czas treningu modelu: 68.7925763130188s
+INFO:root:Czas treningu modelu: 72.64300274848938s
+INFO:root:Czas treningu modelu: 72.20107340812683s
+INFO:root:Czas treningu modelu: 70.38509511947632s
+INFO:root:Czas treningu modelu: 69.24987435340881s
+INFO:root:Wynik biezacego drzewa: 0.0024049889624702973
+INFO:root:Trenuje drzewo o CP: 5.4e-06
+INFO:root:Czas treningu modelu: 70.70979332923889s
+INFO:root:Czas treningu modelu: 69.48604273796082s
+INFO:root:Czas treningu modelu: 69.95619678497314s
+INFO:root:Czas treningu modelu: 70.64613842964172s
+INFO:root:Czas treningu modelu: 71.05299639701843s
+INFO:root:Wynik biezacego drzewa: 0.0028024020528798067
+INFO:root:Trenuje drzewo o CP: 5.5e-06
+INFO:root:Czas treningu modelu: 73.46079468727112s
+INFO:root:Czas treningu modelu: 70.94852375984192s
+INFO:root:Czas treningu modelu: 70.18715739250183s
+INFO:root:Czas treningu modelu: 69.47734332084656s
+INFO:root:Czas treningu modelu: 67.37518620491028s
+INFO:root:Wynik biezacego drzewa: 0.005015522652525842
+INFO:root:Trenuje drzewo o CP: 5.6e-06
+INFO:root:Czas treningu modelu: 69.4430935382843s
+INFO:root:Czas treningu modelu: 69.71364283561707s
+INFO:root:Czas treningu modelu: 70.17672204971313s
+INFO:root:Czas treningu modelu: 70.4390664100647s
+INFO:root:Czas treningu modelu: 71.99599552154541s
+INFO:root:Wynik biezacego drzewa: 0.004322209854277635
+INFO:root:Trenuje drzewo o CP: 5.7e-06
+INFO:root:Czas treningu modelu: 71.97262024879456s
+INFO:root:Czas treningu modelu: 70.25899982452393s
+INFO:root:Czas treningu modelu: 67.19399309158325s
+INFO:root:Czas treningu modelu: 71.93047404289246s
+INFO:root:Czas treningu modelu: 67.28420305252075s
+INFO:root:Wynik biezacego drzewa: 0.0021043007832363307
+INFO:root:Trenuje drzewo o CP: 5.7999999999999995e-06
+INFO:root:Czas treningu modelu: 71.63326072692871s
+INFO:root:Czas treningu modelu: 71.2737226486206s
+INFO:root:Czas treningu modelu: 68.03200054168701s
+INFO:root:Czas treningu modelu: 68.20191287994385s
+INFO:root:Czas treningu modelu: 68.67100191116333s
+INFO:root:Wynik biezacego drzewa: 0.0028269352008480223
+INFO:root:Trenuje drzewo o CP: 5.899999999999999e-06
+INFO:root:Czas treningu modelu: 68.78506422042847s
+INFO:root:Czas treningu modelu: 70.77094173431396s
+INFO:root:Czas treningu modelu: 70.14762377738953s
+INFO:root:Czas treningu modelu: 69.21849942207336s
+INFO:root:Czas treningu modelu: 70.42124032974243s
+INFO:root:Wynik biezacego drzewa: 0.003538442465706379
+INFO:root:Trenuje drzewo o CP: 5.999999999999999e-06
+INFO:root:Czas treningu modelu: 70.89004921913147s
+INFO:root:Czas treningu modelu: 67.97799348831177s
+INFO:root:Czas treningu modelu: 71.60363698005676s
+INFO:root:Czas treningu modelu: 70.9670000076294s
+INFO:root:Czas treningu modelu: 70.5400037765503s
+INFO:root:Wynik biezacego drzewa: 0.0033629346021328485
+INFO:root:Trenuje drzewo o CP: 6.1e-06
+INFO:root:Czas treningu modelu: 68.72972083091736s
+INFO:root:Czas treningu modelu: 71.61296701431274s
+INFO:root:Czas treningu modelu: 71.0862340927124s
+INFO:root:Czas treningu modelu: 70.60546040534973s
+INFO:root:Czas treningu modelu: 71.30291604995728s
+INFO:root:Wynik biezacego drzewa: 0.002154789167743368
+INFO:root:Trenuje drzewo o CP: 6.2e-06
+INFO:root:Czas treningu modelu: 72.17903995513916s
+INFO:root:Czas treningu modelu: 69.57500290870667s
+INFO:root:Czas treningu modelu: 71.26258683204651s
+INFO:root:Czas treningu modelu: 71.37276673316956s
+INFO:root:Czas treningu modelu: 72.6011130809784s
+INFO:root:Wynik biezacego drzewa: 0.0029816093024434285
+INFO:root:Trenuje drzewo o CP: 6.3e-06
+INFO:root:Czas treningu modelu: 72.29500007629395s
+INFO:root:Czas treningu modelu: 70.90534543991089s
+INFO:root:Czas treningu modelu: 72.20677924156189s
+INFO:root:Czas treningu modelu: 72.54399919509888s
+INFO:root:Czas treningu modelu: 70.14554572105408s
+INFO:root:Wynik biezacego drzewa: 0.003973110218746819
+INFO:root:Trenuje drzewo o CP: 6.4e-06
+INFO:root:Czas treningu modelu: 69.14903807640076s
+INFO:root:Czas treningu modelu: 67.31894135475159s
+INFO:root:Czas treningu modelu: 71.66497421264648s
+INFO:root:Czas treningu modelu: 72.97899985313416s
+INFO:root:Czas treningu modelu: 72.33373022079468s
+INFO:root:Wynik biezacego drzewa: 0.006938302233914435
+INFO:root:Trenuje drzewo o CP: 6.5e-06
+INFO:root:Czas treningu modelu: 71.02500128746033s
+INFO:root:Czas treningu modelu: 71.96279001235962s
+INFO:root:Czas treningu modelu: 69.45981001853943s
+INFO:root:Czas treningu modelu: 71.1839952468872s
+INFO:root:Czas treningu modelu: 69.8196587562561s
+INFO:root:Wynik biezacego drzewa: 0.002887170511929218
+INFO:root:Trenuje drzewo o CP: 6.5999999999999995e-06
+INFO:root:Czas treningu modelu: 71.33678889274597s
+INFO:root:Czas treningu modelu: 70.39006543159485s
+INFO:root:Czas treningu modelu: 67.77540493011475s
+INFO:root:Czas treningu modelu: 68.29547190666199s
+INFO:root:Czas treningu modelu: 72.38652801513672s
+INFO:root:Wynik biezacego drzewa: 0.0038681623713812956
+INFO:root:Trenuje drzewo o CP: 6.699999999999999e-06
+INFO:root:Czas treningu modelu: 74.45449900627136s
+INFO:root:Czas treningu modelu: 68.62352538108826s
+INFO:root:Czas treningu modelu: 72.70476984977722s
+INFO:root:Czas treningu modelu: 70.88359832763672s
+INFO:root:Czas treningu modelu: 71.34736108779907s
+INFO:root:Wynik biezacego drzewa: 0.0053713781490974215
+INFO:root:Trenuje drzewo o CP: 6.799999999999999e-06
+INFO:root:Czas treningu modelu: 70.98452115058899s
+INFO:root:Czas treningu modelu: 69.76511287689209s
+INFO:root:Czas treningu modelu: 59.26613759994507s
+INFO:root:Czas treningu modelu: 45.06799530982971s
+INFO:root:Czas treningu modelu: 45.07507562637329s
+INFO:root:Wynik biezacego drzewa: 0.0036792329592521753
+INFO:root:Trenuje drzewo o CP: 6.899999999999999e-06
+INFO:root:Czas treningu modelu: 45.78399920463562s
+INFO:root:Czas treningu modelu: 47.206027030944824s
+INFO:root:Czas treningu modelu: 46.04149913787842s
+INFO:root:Czas treningu modelu: 47.4730007648468s
+INFO:root:Czas treningu modelu: 54.04193329811096s
+INFO:root:Wynik biezacego drzewa: 0.0023534659160687295
+INFO:root:Trenuje drzewo o CP: 7e-06
+INFO:root:Czas treningu modelu: 59.46560478210449s
+INFO:root:Czas treningu modelu: 50.88000273704529s
+INFO:root:Czas treningu modelu: 49.16099762916565s
+INFO:root:Czas treningu modelu: 49.20700263977051s
+INFO:root:Czas treningu modelu: 56.0087251663208s
+INFO:root:Wynik biezacego drzewa: 0.004887591342953031
+INFO:root:Trenuje drzewo o CP: 7.1e-06
+INFO:root:Czas treningu modelu: 69.78700256347656s
+INFO:root:Czas treningu modelu: 76.01001524925232s
+INFO:root:Czas treningu modelu: 73.06130886077881s
+INFO:root:Czas treningu modelu: 56.78523135185242s
+INFO:root:Czas treningu modelu: 52.10028839111328s
+INFO:root:Wynik biezacego drzewa: 0.0020148063009390728
+INFO:root:Trenuje drzewo o CP: 7.2e-06
+INFO:root:Czas treningu modelu: 51.348491191864014s
+INFO:root:Czas treningu modelu: 48.68149375915527s
+INFO:root:Czas treningu modelu: 50.938027143478394s
+INFO:root:Czas treningu modelu: 50.64611053466797s
+INFO:root:Czas treningu modelu: 50.68558692932129s
+INFO:root:Wynik biezacego drzewa: 0.004738173785985007
+INFO:root:Trenuje drzewo o CP: 7.2999999999999996e-06
+INFO:root:Czas treningu modelu: 50.31599974632263s
+INFO:root:Czas treningu modelu: 49.05777144432068s
+INFO:root:Czas treningu modelu: 49.5490984916687s
+INFO:root:Czas treningu modelu: 53.43985152244568s
+INFO:root:Czas treningu modelu: 51.18475890159607s
+INFO:root:Wynik biezacego drzewa: 0.005819249696614109
+INFO:root:Trenuje drzewo o CP: 7.3999999999999995e-06
+INFO:root:Czas treningu modelu: 50.071998834609985s
+INFO:root:Czas treningu modelu: 49.70999336242676s
+INFO:root:Czas treningu modelu: 47.68782567977905s
+INFO:root:Czas treningu modelu: 49.702035665512085s
+INFO:root:Czas treningu modelu: 49.55424523353577s
+INFO:root:Wynik biezacego drzewa: 0.004602228789020789
+INFO:root:Trenuje drzewo o CP: 7.499999999999999e-06
+INFO:root:Czas treningu modelu: 51.37100338935852s
+INFO:root:Czas treningu modelu: 53.89919304847717s
+INFO:root:Czas treningu modelu: 51.54082655906677s
+INFO:root:Czas treningu modelu: 52.14999532699585s
+INFO:root:Czas treningu modelu: 59.72950839996338s
+INFO:root:Wynik biezacego drzewa: 0.002018255294876837
+INFO:root:Trenuje drzewo o CP: 7.599999999999999e-06
+INFO:root:Czas treningu modelu: 70.09793281555176s
+INFO:root:Czas treningu modelu: 51.61496162414551s
+INFO:root:Czas treningu modelu: 52.34654450416565s
+INFO:root:Czas treningu modelu: 53.93153405189514s
+INFO:root:Czas treningu modelu: 57.18699550628662s
+INFO:root:Wynik biezacego drzewa: 0.004800554144834865
+INFO:root:Trenuje drzewo o CP: 7.7e-06
+INFO:root:Czas treningu modelu: 62.51255393028259s
+INFO:root:Czas treningu modelu: 66.88989591598511s
+INFO:root:Czas treningu modelu: 50.68606185913086s
+INFO:root:Czas treningu modelu: 49.824708700180054s
+INFO:root:Czas treningu modelu: 63.15109586715698s
+INFO:root:Wynik biezacego drzewa: 0.003422946673538501
+INFO:root:Trenuje drzewo o CP: 7.8e-06
+INFO:root:Czas treningu modelu: 50.47900342941284s
+INFO:root:Czas treningu modelu: 50.485443115234375s
+INFO:root:Czas treningu modelu: 51.16214418411255s
+INFO:root:Czas treningu modelu: 63.15912914276123s
+INFO:root:Czas treningu modelu: 65.09586763381958s
+INFO:root:Wynik biezacego drzewa: 0.0017128928683019036
+INFO:root:Trenuje drzewo o CP: 7.9e-06
+INFO:root:Czas treningu modelu: 50.8591034412384s
+INFO:root:Czas treningu modelu: 65.02142333984375s
+INFO:root:Czas treningu modelu: 54.2745475769043s
+INFO:root:Czas treningu modelu: 50.13699555397034s
+INFO:root:Czas treningu modelu: 49.62646293640137s
+INFO:root:Wynik biezacego drzewa: 0.0028716900884420533
+INFO:root:Trenuje drzewo o CP: 8e-06
+INFO:root:Czas treningu modelu: 51.39677691459656s
+INFO:root:Czas treningu modelu: 65.35479712486267s
+INFO:root:Czas treningu modelu: 65.66869139671326s
+INFO:root:Czas treningu modelu: 68.06717157363892s
+INFO:root:Czas treningu modelu: 50.5138840675354s
+INFO:root:Wynik biezacego drzewa: 0.00278111079535395
+INFO:root:Trenuje drzewo o CP: 8.1e-06
+INFO:root:Czas treningu modelu: 50.552361726760864s
+INFO:root:Czas treningu modelu: 51.82000279426575s
+INFO:root:Czas treningu modelu: 51.245678186416626s
+INFO:root:Czas treningu modelu: 52.57894539833069s
+INFO:root:Czas treningu modelu: 51.61634802818298s
+INFO:root:Wynik biezacego drzewa: 0.0032702771048064815
+INFO:root:Trenuje drzewo o CP: 8.200000000000001e-06
+INFO:root:Czas treningu modelu: 51.24121713638306s
+INFO:root:Czas treningu modelu: 51.41299867630005s
+INFO:root:Czas treningu modelu: 50.25566244125366s
+INFO:root:Czas treningu modelu: 50.43256378173828s
+INFO:root:Czas treningu modelu: 51.17199969291687s
+INFO:root:Wynik biezacego drzewa: 0.0019388916380823104
+INFO:root:Trenuje drzewo o CP: 8.3e-06
+INFO:root:Czas treningu modelu: 49.79818820953369s
+INFO:root:Czas treningu modelu: 48.55199956893921s
+INFO:root:Czas treningu modelu: 55.24186396598816s
+INFO:root:Czas treningu modelu: 57.77694225311279s
+INFO:root:Czas treningu modelu: 51.16700267791748s
+INFO:root:Wynik biezacego drzewa: 0.002093452748290091
+INFO:root:Trenuje drzewo o CP: 8.400000000000001e-06
+INFO:root:Czas treningu modelu: 55.55894708633423s
+INFO:root:Czas treningu modelu: 68.4580328464508s
+INFO:root:Czas treningu modelu: 68.63357973098755s
+INFO:root:Czas treningu modelu: 67.36264657974243s
+INFO:root:Czas treningu modelu: 70.26341104507446s
+INFO:root:Wynik biezacego drzewa: 0.0029089356045046153
+INFO:root:Trenuje drzewo o CP: 8.5e-06
+INFO:root:Czas treningu modelu: 67.81421828269958s
+INFO:root:Czas treningu modelu: 69.15699696540833s
+INFO:root:Czas treningu modelu: 68.40259718894958s
+INFO:root:Czas treningu modelu: 69.93555307388306s
+INFO:root:Czas treningu modelu: 66.2473394870758s
+INFO:root:Wynik biezacego drzewa: 0.0038407965480635052
+INFO:root:Trenuje drzewo o CP: 8.6e-06
+INFO:root:Czas treningu modelu: 67.79608535766602s
+INFO:root:Czas treningu modelu: 70.0058422088623s
+INFO:root:Czas treningu modelu: 68.1889157295227s
+INFO:root:Czas treningu modelu: 67.93099904060364s
+INFO:root:Czas treningu modelu: 67.07442784309387s
+INFO:root:Wynik biezacego drzewa: 0.0019389050621686275
+INFO:root:Trenuje drzewo o CP: 8.7e-06
+INFO:root:Czas treningu modelu: 68.09715867042542s
+INFO:root:Czas treningu modelu: 67.46443319320679s
+INFO:root:Czas treningu modelu: 70.57908391952515s
+INFO:root:Czas treningu modelu: 69.14117765426636s
+INFO:root:Czas treningu modelu: 70.52143979072571s
+INFO:root:Wynik biezacego drzewa: 0.0031281165943006293
+INFO:root:Trenuje drzewo o CP: 8.8e-06
+INFO:root:Czas treningu modelu: 68.41170310974121s
+INFO:root:Czas treningu modelu: 68.64500117301941s
+INFO:root:Czas treningu modelu: 66.68019604682922s
+INFO:root:Czas treningu modelu: 69.95207643508911s
+INFO:root:Czas treningu modelu: 71.52548360824585s
+INFO:root:Wynik biezacego drzewa: 0.0033153364984429335
+INFO:root:Trenuje drzewo o CP: 8.900000000000001e-06
+INFO:root:Czas treningu modelu: 66.99197387695312s
+INFO:root:Czas treningu modelu: 68.73646259307861s
+INFO:root:Czas treningu modelu: 68.33170914649963s
+INFO:root:Czas treningu modelu: 70.32934641838074s
+INFO:root:Czas treningu modelu: 65.97576713562012s
+INFO:root:Wynik biezacego drzewa: 0.002245837823958879
+INFO:root:Trenuje drzewo o CP: 9e-06
+INFO:root:Czas treningu modelu: 69.22634267807007s
+INFO:root:Czas treningu modelu: 66.92427229881287s
+INFO:root:Czas treningu modelu: 68.01809978485107s
+INFO:root:Czas treningu modelu: 67.50103282928467s
+INFO:root:Czas treningu modelu: 66.54052996635437s
+INFO:root:Wynik biezacego drzewa: 0.005226503243302722
+INFO:root:Trenuje drzewo o CP: 9.100000000000001e-06
+INFO:root:Czas treningu modelu: 67.05480909347534s
+INFO:root:Czas treningu modelu: 68.95254254341125s
+INFO:root:Czas treningu modelu: 68.95828795433044s
+INFO:root:Czas treningu modelu: 70.04725813865662s
+INFO:root:Czas treningu modelu: 68.85862827301025s
+INFO:root:Wynik biezacego drzewa: 0.00327702045440764
+INFO:root:Trenuje drzewo o CP: 9.2e-06
+INFO:root:Czas treningu modelu: 67.16648054122925s
+INFO:root:Czas treningu modelu: 69.82053661346436s
+INFO:root:Czas treningu modelu: 70.43462538719177s
+INFO:root:Czas treningu modelu: 69.88113403320312s
+INFO:root:Czas treningu modelu: 68.81867289543152s
+INFO:root:Wynik biezacego drzewa: 0.0027249760838916203
+INFO:root:Trenuje drzewo o CP: 9.3e-06
+INFO:root:Czas treningu modelu: 66.2082929611206s
+INFO:root:Czas treningu modelu: 67.45600175857544s
+INFO:root:Czas treningu modelu: 69.3725688457489s
+INFO:root:Czas treningu modelu: 66.49600553512573s
+INFO:root:Czas treningu modelu: 70.05574703216553s
+INFO:root:Wynik biezacego drzewa: 0.003613015382072062
+INFO:root:Trenuje drzewo o CP: 9.4e-06
+INFO:root:Czas treningu modelu: 67.84963488578796s
+INFO:root:Czas treningu modelu: 69.7587640285492s
+INFO:root:Czas treningu modelu: 66.27696323394775s
+INFO:root:Czas treningu modelu: 68.81787323951721s
+INFO:root:Czas treningu modelu: 64.793630361557s
+INFO:root:Wynik biezacego drzewa: 0.004069490214430004
+INFO:root:Trenuje drzewo o CP: 9.5e-06
+INFO:root:Czas treningu modelu: 68.04838824272156s
+INFO:root:Czas treningu modelu: 68.06015372276306s
+INFO:root:Czas treningu modelu: 67.9066903591156s
+INFO:root:Czas treningu modelu: 66.28519105911255s
+INFO:root:Czas treningu modelu: 68.30812430381775s
+INFO:root:Wynik biezacego drzewa: 0.003574765803634579
+INFO:root:Trenuje drzewo o CP: 9.6e-06
+INFO:root:Czas treningu modelu: 67.47489905357361s
+INFO:root:Czas treningu modelu: 69.69950532913208s
+INFO:root:Czas treningu modelu: 69.199392080307s
+INFO:root:Czas treningu modelu: 69.3940954208374s
+INFO:root:Czas treningu modelu: 70.06704878807068s
+INFO:root:Wynik biezacego drzewa: 0.003269418181062141
+INFO:root:Trenuje drzewo o CP: 9.7e-06
+INFO:root:Czas treningu modelu: 68.37456274032593s
+INFO:root:Czas treningu modelu: 66.14864540100098s
+INFO:root:Czas treningu modelu: 68.94758677482605s
+INFO:root:Czas treningu modelu: 66.24737215042114s
+INFO:root:Czas treningu modelu: 69.99258613586426s
+INFO:root:Wynik biezacego drzewa: 0.0019404053326111418
+INFO:root:Trenuje drzewo o CP: 9.800000000000001e-06
+INFO:root:Czas treningu modelu: 67.98785376548767s
+INFO:root:Czas treningu modelu: 66.49000024795532s
+INFO:root:Czas treningu modelu: 51.29580760002136s
+INFO:root:Czas treningu modelu: 51.378042221069336s
+INFO:root:Czas treningu modelu: 53.128169536590576s
+INFO:root:Wynik biezacego drzewa: 0.0020046201476242535
+INFO:root:Trenuje drzewo o CP: 9.9e-06
+INFO:root:Czas treningu modelu: 52.394001960754395s
+INFO:root:Czas treningu modelu: 53.60596299171448s
+INFO:root:Czas treningu modelu: 52.63199591636658s
+INFO:root:Czas treningu modelu: 62.87348985671997s
+INFO:root:Czas treningu modelu: 66.58520102500916s
+INFO:root:Wynik biezacego drzewa: 0.0015790591814580012
+INFO:root:Trenuje drzewo o CP: 1e-05
+INFO:root:Czas treningu modelu: 66.8240008354187s
+INFO:root:Czas treningu modelu: 68.76899123191833s
+INFO:root:Czas treningu modelu: 66.49173426628113s
+INFO:root:Czas treningu modelu: 67.23244452476501s
+INFO:root:Czas treningu modelu: 67.4264976978302s
+INFO:root:Wynik biezacego drzewa: 0.004427107654444695
+INFO:root:Wynik najlepszego drzewa: 0.0010590800003160337. CP = 4.2e-06

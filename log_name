@@ -1,0 +1,26 @@
+DEBUG:matplotlib.pyplot:Loaded backend Qt5Agg version unknown.
+INFO:root:Trenuje drzewo o CP: 0.0
+DEBUG:matplotlib.pyplot:Loaded backend Qt5Agg version unknown.
+INFO:root:Trenuje drzewo o CP: 0.0
+INFO:root:Czas treningu modelu: 0.41699957847595215s
+INFO:root:Czas treningu modelu: 0.3950009346008301s
+INFO:root:Czas treningu modelu: 0.41499996185302734s
+INFO:root:Czas treningu modelu: 0.41900134086608887s
+INFO:root:Czas treningu modelu: 0.4730830192565918s
+INFO:root:Trenuje drzewo o CP: 0.025
+INFO:root:Czas treningu modelu: 52.06602334976196s
+DEBUG:matplotlib.pyplot:Loaded backend Qt5Agg version unknown.
+INFO:root:Trenuje drzewo o CP: 0.025
+INFO:root:Czas treningu modelu: 53.308783769607544s
+INFO:root:Czas treningu modelu: 58.07804489135742s
+INFO:root:Czas treningu modelu: 56.06982779502869s
+INFO:root:Czas treningu modelu: 56.33852696418762s
+INFO:root:Czas treningu modelu: 51.528260231018066s
+INFO:root:Trenuje drzewo o CP: 0.05
+DEBUG:matplotlib.pyplot:Loaded backend Qt5Agg version unknown.
+INFO:root:Trenuje drzewo o CP: 0.05
+INFO:root:Czas treningu modelu: 56.99100184440613s
+INFO:root:Czas treningu modelu: 52.57497191429138s
+INFO:root:Czas treningu modelu: 64.77995753288269s
+INFO:root:Czas treningu modelu: 52.59030604362488s
+DEBUG:matplotlib.pyplot:Loaded backend Qt5Agg version unknown.

@@ -1,0 +1,28 @@
+INFO:root:Trenuje drzewo o CP: 1e-08
+INFO:root:Czas treningu modelu: 60.543067932128906s
+INFO:root:Wynik biezacego drzewa: 0.007602978936423171
+INFO:root:Trenuje drzewo o CP: 1e-07
+INFO:root:Czas treningu modelu: 55.672959089279175s
+INFO:root:Wynik biezacego drzewa: 0.009430759791160013
+INFO:root:Trenuje drzewo o CP: 1e-06
+INFO:root:Czas treningu modelu: 61.67005395889282s
+INFO:root:Wynik biezacego drzewa: 0.0032606481323420883
+INFO:root:Trenuje drzewo o CP: 1e-05
+INFO:root:Czas treningu modelu: 73.05099821090698s
+INFO:root:Wynik biezacego drzewa: 0.005270749573864783
+INFO:root:Trenuje drzewo o CP: 0.0001
+INFO:root:Czas treningu modelu: 68.5571801662445s
+INFO:root:Wynik biezacego drzewa: 0.025559974967383686
+INFO:root:Trenuje drzewo o CP: 0.001
+INFO:root:Czas treningu modelu: 53.23400259017944s
+INFO:root:Wynik biezacego drzewa: 0.008031302821924496
+INFO:root:Trenuje drzewo o CP: 0.01
+INFO:root:Czas treningu modelu: 66.2913167476654s
+INFO:root:Wynik biezacego drzewa: 0.04484446939190465
+INFO:root:Trenuje drzewo o CP: 0.1
+INFO:root:Czas treningu modelu: 69.18181538581848s
+INFO:root:Wynik biezacego drzewa: 0.028448085796970533
+INFO:root:Trenuje drzewo o CP: 1.0
+INFO:root:Czas treningu modelu: 60.9411895275116s
+INFO:root:Wynik biezacego drzewa: 0.20331823261221765
+INFO:root:Wynik najlepszego drzewa: 0.0032606481323420883. CP = 1e-06

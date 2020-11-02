@@ -1,0 +1,9 @@
+INFO:root:Numer scenariusza& 0& 1& 2& 3& 4& 5& 6& 7\\\hline
+INFO:root:MSE $\cdot 10^{-4}$& 7.51& 7.43& 12.28& 378.81& 1.13& 4.57& 6708.04& 181.07\\\hline
+INFO:root:max error& 0.102& 0.109& 0.144& 0.246& 0.057& 0.087& 0.853& 0.207\\\hline
+INFO:root:Czas symulacji [s]& 80.77& 72.31& 38.64& 11.75& 9.37& 8.46& 8.31& 58.04\\\hline
+INFO:root:
+INFO:root:Numer scenariusza\\\hline
+INFO:root:MSE $\cdot 10^{-4}$\\\hline
+INFO:root:max error\\\hline
+INFO:root:Czas symulacji [s]\\\hline

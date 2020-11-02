@@ -1,0 +1,4 @@
+INFO:root:Trenuje drzewo o CP: 0.05
+INFO:root:Czas treningu modelu: 50.836995124816895s
+INFO:root:Wynik biezacego drzewa: 0.0305836276763144
+INFO:root:Wynik najlepszego drzewa: 0.0305836276763144. CP = 0.05

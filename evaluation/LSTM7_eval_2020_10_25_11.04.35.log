@@ -1,0 +1,74 @@
+INFO:root:Evaluating model with index: 0
+INFO:root:Score on scenario 0: 1.6400110934651604e-05
+INFO:root:Score on scenario 1: 7.629841619635451e-05
+INFO:root:Score on scenario 2: 9.28153887388637e-06
+INFO:root:Score on scenario 3: 8.926672573085011e-05
+INFO:root:Score on scenario 4: 0.0002342416990304658
+INFO:root:Score on scenario 5: 9.896088162089716e-05
+INFO:root:Score on scenario 6: 9.052302217061521e-05
+INFO:root:Score on scenario 7: 1.7437107215516056e-05
+INFO:root:Score on scenario 8: 1.7249177177768097e-05
+INFO:root:Score on scenario 9: 0.00010550827454949447
+INFO:root:Score on scenario 10: 2.6336118192675668e-05
+INFO:root:Score on scenario 11: 4.3401662822916846e-05
+INFO:root:Score on scenario 12: 2.851355442072144e-05
+INFO:root:Score on scenario 13: 2.1477017219565185e-05
+INFO:root:Score on scenario 14: 0.00018936026927671412
+INFO:root:Score on scenario 15: 0.0001986891686189001
+INFO:root:General score of the model: 0.0012629447440519928
+INFO:root:Evaluating model with index: 1
+INFO:root:Score on scenario 0: 1.129242197951856e-05
+INFO:root:Score on scenario 1: 5.9410342640896086e-05
+INFO:root:Score on scenario 2: 5.750220090139727e-06
+INFO:root:Score on scenario 3: 7.051945299870351e-05
+INFO:root:Score on scenario 4: 0.00012332493355644928
+INFO:root:Score on scenario 5: 6.477760971538886e-05
+INFO:root:Score on scenario 6: 9.67933988216947e-05
+INFO:root:Score on scenario 7: 9.880372757867003e-06
+INFO:root:Score on scenario 8: 4.118025140573987e-05
+INFO:root:Score on scenario 9: 0.0001264897014060414
+INFO:root:Score on scenario 10: 3.020493845839957e-05
+INFO:root:Score on scenario 11: 4.623559453328304e-05
+INFO:root:Score on scenario 12: 1.7797048133034548e-05
+INFO:root:Score on scenario 13: 1.311001221519908e-05
+INFO:root:Score on scenario 14: 0.00015940655617132428
+INFO:root:Score on scenario 15: 0.00041234913440216356
+INFO:root:General score of the model: 0.0012885219892858429
+INFO:root:Evaluating model with index: 2
+INFO:root:Score on scenario 0: 1.2022522974376466e-05
+INFO:root:Score on scenario 1: 2.2953208384026386e-05
+INFO:root:Score on scenario 2: 6.055790497799511e-06
+INFO:root:Score on scenario 3: 2.9119437446746944e-05
+INFO:root:Score on scenario 4: 6.679039815822662e-05
+INFO:root:Score on scenario 5: 2.9457244558583484e-05
+INFO:root:Score on scenario 6: 3.695337164722849e-05
+INFO:root:Score on scenario 7: 1.095356118944876e-05
+INFO:root:Score on scenario 8: 1.5871612932282485e-05
+INFO:root:Score on scenario 9: 4.3111636101731836e-05
+INFO:root:Score on scenario 10: 1.1976761883758555e-05
+INFO:root:Score on scenario 11: 3.262772019074208e-05
+INFO:root:Score on scenario 12: 1.2863904314741766e-05
+INFO:root:Score on scenario 13: 1.2880590713675639e-05
+INFO:root:Score on scenario 14: 7.174127994801223e-05
+INFO:root:Score on scenario 15: 0.00041234137949379814
+INFO:root:General score of the model: 0.0008277204204351794
+INFO:root:Evaluating model with index: 3
+INFO:root:Score on scenario 0: 1.868205012453446e-05
+INFO:root:Score on scenario 1: 4.8491123004525125e-05
+INFO:root:Score on scenario 2: 9.085810521851025e-06
+INFO:root:Score on scenario 3: 5.465232491724277e-05
+INFO:root:Score on scenario 4: 0.00018859497083518448
+INFO:root:Score on scenario 5: 7.517099304843266e-05
+INFO:root:Score on scenario 6: 7.794079633351527e-05
+INFO:root:Score on scenario 7: 1.1990952643738361e-05
+INFO:root:Score on scenario 8: 2.412932049987203e-05
+INFO:root:Score on scenario 9: 0.00010621597639834594
+INFO:root:Score on scenario 10: 4.407812115803163e-05
+INFO:root:Score on scenario 11: 5.684531294074952e-05
+INFO:root:Score on scenario 12: 2.5201988440054105e-05
+INFO:root:Score on scenario 13: 1.6012003135272317e-05
+INFO:root:Score on scenario 14: 0.00012898087017010505
+INFO:root:Score on scenario 15: 0.00035701659299297453
+INFO:root:General score of the model: 0.0012430892071644292
+INFO:root:Best's model index: 2, with score: 0.0008277204204351794
+INFO:root:None

@@ -1,0 +1,13 @@
+INFO:root:Trenuje siec o strukturze: [4]
+INFO:root:Training time: 108.55754232406616 s
+INFO:root:Wynik sieci nr 1: 0.001079231526515058
+INFO:root:Training time: 108.46499991416931 s
+INFO:root:Wynik sieci nr 2: 0.0006988582740794394
+INFO:root:Wynik biezacej sieci: 0.0006988582740794394
+INFO:root:Trenuje siec o strukturze: [4, 2]
+INFO:root:Training time: 111.31300449371338 s
+INFO:root:Wynik sieci nr 1: 0.00029261651827685664
+INFO:root:Training time: 116.7065200805664 s
+INFO:root:Wynik sieci nr 2: 0.0025163597895733027
+INFO:root:Wynik biezacej sieci: 0.00029261651827685664
+INFO:root:Najlepszy model - struktura [4, 2], wynik: 0.00029261651827685664

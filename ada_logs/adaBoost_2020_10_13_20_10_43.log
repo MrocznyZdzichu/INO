@@ -1,0 +1,7 @@
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 1
+INFO:root:Learning rate: 0.75
+INFO:root:Max depth: 1
+INFO:root:Czas trwania treningu: 0.33899927139282227
+INFO:root:Wynik biezacego modelu: 1
+INFO:root:Najlepszy model: liczb_drzew: 1, stala uczenia: 0.75, liczba poziomow: 1, wynik: 1

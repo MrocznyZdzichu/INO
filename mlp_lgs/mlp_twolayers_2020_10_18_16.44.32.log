@@ -1,0 +1,141 @@
+INFO:root:Training network with structure: [4, 8]
+INFO:root:Train no. 1/5
+INFO:root:Model's training time: 76.06505680084229 s
+INFO:root:Validation error: 0.002733290660770991
+INFO:root:Simulation time: 17.68399930000305 s
+INFO:root:Score: 6.896796489024879e-05
+INFO:root:Train no. 2/5
+INFO:root:Model's training time: 60.0375189781189 s
+INFO:root:Validation error: 0.0029841135178826153
+INFO:root:Simulation time: 13.130996465682983 s
+INFO:root:Score: 0.012924015252261436
+INFO:root:Train no. 3/5
+INFO:root:Model's training time: 41.80405116081238 s
+INFO:root:Validation error: 0.005047572230584598
+INFO:root:Simulation time: 17.725528240203857 s
+INFO:root:Score: 0.24041054120285382
+INFO:root:Train no. 4/5
+INFO:root:Model's training time: 102.62812781333923 s
+INFO:root:Validation error: 0.002643844565512574
+INFO:root:Simulation time: 13.036998987197876 s
+INFO:root:Score: 0.00019781773743790716
+INFO:root:Train no. 5/5
+INFO:root:Model's training time: 56.50499725341797 s
+INFO:root:Validation error: 0.0032427610468802495
+INFO:root:Simulation time: 12.73799991607666 s
+INFO:root:Score: 0.0008103244287539843
+INFO:root:Best score: 6.896796489024879e-05
+INFO:root:Current score: 6.896796489024879e-05
+INFO:root:Training network with structure: [6, 4]
+INFO:root:Train no. 1/5
+INFO:root:Model's training time: 9.416998147964478 s
+INFO:root:Validation error: 0.00600334190562647
+INFO:root:Simulation time: 18.06799817085266 s
+INFO:root:Score: 0.006669154368060974
+INFO:root:Train no. 2/5
+INFO:root:Model's training time: 27.09700298309326 s
+INFO:root:Validation error: 0.004050525367427725
+INFO:root:Simulation time: 17.572993755340576 s
+INFO:root:Score: 0.00241228027609403
+INFO:root:Train no. 3/5
+INFO:root:Model's training time: 72.10957980155945 s
+INFO:root:Validation error: 0.001372782203301968
+INFO:root:Simulation time: 13.307995557785034 s
+INFO:root:Score: 0.00013664852212477854
+INFO:root:Train no. 4/5
+INFO:root:Model's training time: 17.089999437332153 s
+INFO:root:Validation error: 0.001446000074316219
+INFO:root:Simulation time: 12.900998830795288 s
+INFO:root:Score: 0.0006729124229668634
+INFO:root:Train no. 5/5
+INFO:root:Model's training time: 55.39356732368469 s
+INFO:root:Validation error: 0.004432654541948361
+INFO:root:Simulation time: 17.482000589370728 s
+INFO:root:Score: 0.005337090898458287
+INFO:root:Best score: 0.00013664852212477854
+INFO:root:Current score: 0.00013664852212477854
+INFO:root:Training network with structure: [10, 8]
+INFO:root:Train no. 1/5
+INFO:root:Model's training time: 21.371005535125732 s
+INFO:root:Validation error: 0.006493032059311441
+INFO:root:Simulation time: 17.541993618011475 s
+INFO:root:Score: 0.0028005941354306476
+INFO:root:Train no. 2/5
+INFO:root:Model's training time: 72.29908561706543 s
+INFO:root:Validation error: 0.0012917119407563247
+INFO:root:Simulation time: 12.887514114379883 s
+INFO:root:Score: 0.00023213488171047145
+INFO:root:Train no. 3/5
+INFO:root:Model's training time: 23.191034078598022 s
+INFO:root:Validation error: 0.0036556877588842275
+INFO:root:Simulation time: 12.966994762420654 s
+INFO:root:Score: 0.009678015177160096
+INFO:root:Train no. 4/5
+INFO:root:Model's training time: 87.08435034751892 s
+INFO:root:Validation error: 0.0012315587273786844
+INFO:root:Simulation time: 27.946000576019287 s
+INFO:root:Score: 0.02857731289257186
+INFO:root:Train no. 5/5
+INFO:root:Model's training time: 108.86811113357544 s
+INFO:root:Validation error: 0.0004756685294158751
+INFO:root:Simulation time: 28.03899335861206 s
+INFO:root:Score: 0.00044106695208267566
+INFO:root:Best score: 0.00023213488171047145
+INFO:root:Current score: 0.00023213488171047145
+INFO:root:Training network with structure: [12, 16]
+INFO:root:Train no. 1/5
+INFO:root:Model's training time: 36.9025399684906 s
+INFO:root:Validation error: 0.0026779278241932515
+INFO:root:Simulation time: 25.83553457260132 s
+INFO:root:Score: 0.003012824883244236
+INFO:root:Train no. 2/5
+INFO:root:Model's training time: 36.85805654525757 s
+INFO:root:Validation error: 0.0027138006150667663
+INFO:root:Simulation time: 21.060991764068604 s
+INFO:root:Score: 0.0038346955202931236
+INFO:root:Train no. 3/5
+INFO:root:Model's training time: 6.953000783920288 s
+INFO:root:Validation error: 0.00018112279963261238
+INFO:root:Simulation time: 23.0161771774292 s
+INFO:root:Score: 0.01808906801985606
+INFO:root:Train no. 4/5
+INFO:root:Model's training time: 26.407997846603394 s
+INFO:root:Validation error: 0.0034772361306338573
+INFO:root:Simulation time: 26.546002864837646 s
+INFO:root:Score: 0.05220066425763294
+INFO:root:Train no. 5/5
+INFO:root:Model's training time: 98.7625253200531 s
+INFO:root:Validation error: 0.0025548223487299113
+INFO:root:Simulation time: 21.274524450302124 s
+INFO:root:Score: 0.0012863957962118576
+INFO:root:Best score: 0.0012863957962118576
+INFO:root:Current score: 0.0012863957962118576
+INFO:root:Training network with structure: [16, 12]
+INFO:root:Train no. 1/5
+INFO:root:Model's training time: 57.79699635505676 s
+INFO:root:Validation error: 0.0014028083099366158
+INFO:root:Simulation time: 24.002997875213623 s
+INFO:root:Score: 0.0006064087154949134
+INFO:root:Train no. 2/5
+INFO:root:Model's training time: 64.62755465507507 s
+INFO:root:Validation error: 0.0034141987598217865
+INFO:root:Simulation time: 19.092999696731567 s
+INFO:root:Score: 0.05544164774912121
+INFO:root:Train no. 3/5
+INFO:root:Model's training time: 32.31759524345398 s
+INFO:root:Validation error: 0.0011347348472908623
+INFO:root:Simulation time: 24.042999029159546 s
+INFO:root:Score: 0.0017724007988500923
+INFO:root:Train no. 4/5
+INFO:root:Model's training time: 55.7445604801178 s
+INFO:root:Validation error: 0.0009101270422051426
+INFO:root:Simulation time: 18.464998960494995 s
+INFO:root:Score: 0.03963994353476894
+INFO:root:Train no. 5/5
+INFO:root:Model's training time: 79.67358326911926 s
+INFO:root:Validation error: 0.00026186709048139
+INFO:root:Simulation time: 23.849005460739136 s
+INFO:root:Score: 0.0037335081385886128
+INFO:root:Best score: 0.0006064087154949134
+INFO:root:Current score: 0.0006064087154949134
+INFO:root:Best score: 6.896796489024879e-05 with structure: [4, 8]

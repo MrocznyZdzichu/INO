@@ -1,0 +1,29 @@
+INFO:root:Trenuje siec o strukturze: [4]
+INFO:root:Training time: 58.64200019836426 s
+INFO:root:Wynik sieci nr 1: 0.0017638070361166913
+INFO:root:Training time: 113.68367314338684 s
+INFO:root:Wynik sieci nr 2: 0.00043576686415988945
+INFO:root:Training time: 305.251993894577 s
+INFO:root:Wynik sieci nr 3: 0.0004074070710566217
+INFO:root:Training time: 176.17229676246643 s
+INFO:root:Wynik sieci nr 4: 0.00014087497426635556
+INFO:root:Training time: 241.35615491867065 s
+INFO:root:Wynik sieci nr 5: 0.0006139874439792416
+INFO:root:Wynik biezacej sieci: 0.00014087497426635556
+INFO:root:Trenuje siec o strukturze: [8]
+INFO:root:Training time: 255.31469988822937 s
+INFO:root:Wynik sieci nr 1: 0.00019132093357993371
+INFO:root:Training time: 265.21985149383545 s
+INFO:root:Wynik sieci nr 2: 0.00016102454797439628
+INFO:root:Training time: 315.0057182312012 s
+INFO:root:Wynik sieci nr 3: 0.00020474789826125948
+INFO:root:Training time: 129.84020066261292 s
+INFO:root:Wynik sieci nr 4: 0.00015034105380655103
+INFO:root:Training time: 207.3158597946167 s
+INFO:root:Wynik sieci nr 5: 0.00024761716939628617
+INFO:root:Wynik biezacej sieci: 0.00015034105380655103
+INFO:root:Trenuje siec o strukturze: [12]
+INFO:root:Training time: 235.29677557945251 s
+INFO:root:Wynik sieci nr 1: 0.00019216613278740855
+INFO:root:Training time: 270.6732063293457 s
+INFO:root:Wynik sieci nr 2: 8.315317396008018e-05

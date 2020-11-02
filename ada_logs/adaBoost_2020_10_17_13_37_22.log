@@ -1,0 +1,376 @@
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 5
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 1
+INFO:root:Czas trwania treningu: 1.4900012016296387
+INFO:root:Czas trwania obliczania predykcji modelu: 17.244998931884766
+INFO:root:Czas trwania treningu: 1.6259918212890625
+INFO:root:Czas trwania obliczania predykcji modelu: 17.084996461868286
+INFO:root:Czas trwania treningu: 1.5399985313415527
+INFO:root:Czas trwania obliczania predykcji modelu: 17.728816270828247
+INFO:root:Czas trwania treningu: 1.5579965114593506
+INFO:root:Czas trwania obliczania predykcji modelu: 17.64200448989868
+INFO:root:Czas trwania treningu: 1.5779976844787598
+INFO:root:Czas trwania obliczania predykcji modelu: 18.187996864318848
+INFO:root:Wynik biezacego modelu: 0.02748864185243514
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 5
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 1.7460064888000488
+INFO:root:Czas trwania obliczania predykcji modelu: 17.865992069244385
+INFO:root:Czas trwania treningu: 1.690004587173462
+INFO:root:Czas trwania obliczania predykcji modelu: 17.65912103652954
+INFO:root:Czas trwania treningu: 1.676002025604248
+INFO:root:Czas trwania obliczania predykcji modelu: 17.468366622924805
+INFO:root:Czas trwania treningu: 1.743006706237793
+INFO:root:Czas trwania obliczania predykcji modelu: 17.247002601623535
+INFO:root:Czas trwania treningu: 1.778994083404541
+INFO:root:Czas trwania obliczania predykcji modelu: 17.49799871444702
+INFO:root:Wynik biezacego modelu: 0.004874003846854947
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 5
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 3
+INFO:root:Czas trwania treningu: 2.136995315551758
+INFO:root:Czas trwania obliczania predykcji modelu: 17.730034351348877
+INFO:root:Czas trwania treningu: 1.8479924201965332
+INFO:root:Czas trwania obliczania predykcji modelu: 17.68047308921814
+INFO:root:Czas trwania treningu: 2.8360023498535156
+INFO:root:Czas trwania obliczania predykcji modelu: 18.39455223083496
+INFO:root:Czas trwania treningu: 2.0329806804656982
+INFO:root:Czas trwania obliczania predykcji modelu: 18.72524666786194
+INFO:root:Czas trwania treningu: 2.026003837585449
+INFO:root:Czas trwania obliczania predykcji modelu: 18.94580316543579
+INFO:root:Wynik biezacego modelu: 0.002251998552104843
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 5
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 4
+INFO:root:Czas trwania treningu: 2.1899900436401367
+INFO:root:Czas trwania obliczania predykcji modelu: 17.545006036758423
+INFO:root:Czas trwania treningu: 2.126899480819702
+INFO:root:Czas trwania obliczania predykcji modelu: 18.038031101226807
+INFO:root:Czas trwania treningu: 2.1399595737457275
+INFO:root:Czas trwania obliczania predykcji modelu: 17.56819772720337
+INFO:root:Czas trwania treningu: 2.256004571914673
+INFO:root:Czas trwania obliczania predykcji modelu: 17.35601258277893
+INFO:root:Czas trwania treningu: 2.049002170562744
+INFO:root:Czas trwania obliczania predykcji modelu: 17.892028331756592
+INFO:root:Wynik biezacego modelu: 0.0034213891099879323
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 5
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 2.701000452041626
+INFO:root:Czas trwania obliczania predykcji modelu: 17.725797176361084
+INFO:root:Czas trwania treningu: 2.39499568939209
+INFO:root:Czas trwania obliczania predykcji modelu: 17.09500503540039
+INFO:root:Czas trwania treningu: 2.426994800567627
+INFO:root:Czas trwania obliczania predykcji modelu: 17.462005376815796
+INFO:root:Czas trwania treningu: 2.2239975929260254
+INFO:root:Czas trwania obliczania predykcji modelu: 17.65100073814392
+INFO:root:Czas trwania treningu: 2.3879969120025635
+INFO:root:Czas trwania obliczania predykcji modelu: 17.916999340057373
+INFO:root:Wynik biezacego modelu: 0.002098732290719803
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 1
+INFO:root:Czas trwania treningu: 6.231004238128662
+INFO:root:Czas trwania obliczania predykcji modelu: 52.93799948692322
+INFO:root:Czas trwania treningu: 6.2920005321502686
+INFO:root:Czas trwania obliczania predykcji modelu: 53.05178880691528
+INFO:root:Czas trwania treningu: 7.229974269866943
+INFO:root:Czas trwania obliczania predykcji modelu: 60.4965078830719
+INFO:root:Czas trwania treningu: 6.9189958572387695
+INFO:root:Czas trwania obliczania predykcji modelu: 58.854689836502075
+INFO:root:Czas trwania treningu: 4.271000146865845
+INFO:root:Czas trwania obliczania predykcji modelu: 35.50458478927612
+INFO:root:Wynik biezacego modelu: 0.01919919083442448
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 8.62199854850769
+INFO:root:Czas trwania obliczania predykcji modelu: 57.292030811309814
+INFO:root:Czas trwania treningu: 8.54301118850708
+INFO:root:Czas trwania obliczania predykcji modelu: 56.5478355884552
+INFO:root:Czas trwania treningu: 8.761000633239746
+INFO:root:Czas trwania obliczania predykcji modelu: 55.3768150806427
+INFO:root:Czas trwania treningu: 7.523001670837402
+INFO:root:Czas trwania obliczania predykcji modelu: 56.96285152435303
+INFO:root:Czas trwania treningu: 7.665995359420776
+INFO:root:Czas trwania obliczania predykcji modelu: 54.860002279281616
+INFO:root:Wynik biezacego modelu: 0.0041111675592121755
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 3
+INFO:root:Czas trwania treningu: 8.43899917602539
+INFO:root:Czas trwania obliczania predykcji modelu: 55.013996601104736
+INFO:root:Czas trwania treningu: 8.362000226974487
+INFO:root:Czas trwania obliczania predykcji modelu: 54.97099947929382
+INFO:root:Czas trwania treningu: 8.313997507095337
+INFO:root:Czas trwania obliczania predykcji modelu: 56.18602275848389
+INFO:root:Czas trwania treningu: 8.600343942642212
+INFO:root:Czas trwania obliczania predykcji modelu: 54.89666199684143
+INFO:root:Czas trwania treningu: 8.41599988937378
+INFO:root:Czas trwania obliczania predykcji modelu: 54.94099450111389
+INFO:root:Wynik biezacego modelu: 0.0035474511988387906
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 4
+INFO:root:Czas trwania treningu: 9.164525270462036
+INFO:root:Czas trwania obliczania predykcji modelu: 54.97200584411621
+INFO:root:Czas trwania treningu: 9.104997873306274
+INFO:root:Czas trwania obliczania predykcji modelu: 54.5290002822876
+INFO:root:Czas trwania treningu: 8.87100338935852
+INFO:root:Czas trwania obliczania predykcji modelu: 54.846991539001465
+INFO:root:Czas trwania treningu: 8.960000038146973
+INFO:root:Czas trwania obliczania predykcji modelu: 55.319000244140625
+INFO:root:Czas trwania treningu: 9.274001836776733
+INFO:root:Czas trwania obliczania predykcji modelu: 55.35698890686035
+INFO:root:Wynik biezacego modelu: 0.002690671665862777
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 10.196998834609985
+INFO:root:Czas trwania obliczania predykcji modelu: 54.998414039611816
+INFO:root:Czas trwania treningu: 9.88799524307251
+INFO:root:Czas trwania obliczania predykcji modelu: 54.712016344070435
+INFO:root:Czas trwania treningu: 10.048096179962158
+INFO:root:Czas trwania obliczania predykcji modelu: 55.773476362228394
+INFO:root:Czas trwania treningu: 10.248980045318604
+INFO:root:Czas trwania obliczania predykcji modelu: 55.43200135231018
+INFO:root:Czas trwania treningu: 10.52599549293518
+INFO:root:Czas trwania obliczania predykcji modelu: 55.15599346160889
+INFO:root:Wynik biezacego modelu: 0.002300101818188423
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 50
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 1
+INFO:root:Czas trwania treningu: 16.77399706840515
+INFO:root:Czas trwania obliczania predykcji modelu: 127.85152530670166
+INFO:root:Czas trwania treningu: 16.280004024505615
+INFO:root:Czas trwania obliczania predykcji modelu: 127.00703811645508
+INFO:root:Czas trwania treningu: 16.902998447418213
+INFO:root:Czas trwania obliczania predykcji modelu: 127.22500014305115
+INFO:root:Czas trwania treningu: 16.397985219955444
+INFO:root:Czas trwania obliczania predykcji modelu: 127.03141140937805
+INFO:root:Czas trwania treningu: 16.499024391174316
+INFO:root:Czas trwania obliczania predykcji modelu: 127.34199929237366
+INFO:root:Wynik biezacego modelu: 0.017354472677650806
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 50
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 17.887991189956665
+INFO:root:Czas trwania obliczania predykcji modelu: 126.69099402427673
+INFO:root:Czas trwania treningu: 18.04399847984314
+INFO:root:Czas trwania obliczania predykcji modelu: 126.29103350639343
+INFO:root:Czas trwania treningu: 19.361998319625854
+INFO:root:Czas trwania obliczania predykcji modelu: 126.42681980133057
+INFO:root:Czas trwania treningu: 18.155998945236206
+INFO:root:Czas trwania obliczania predykcji modelu: 126.51553583145142
+INFO:root:Czas trwania treningu: 18.47275686264038
+INFO:root:Czas trwania obliczania predykcji modelu: 126.67592597007751
+INFO:root:Wynik biezacego modelu: 0.004586879272951011
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 50
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 3
+INFO:root:Czas trwania treningu: 19.828998804092407
+INFO:root:Czas trwania obliczania predykcji modelu: 126.83354663848877
+INFO:root:Czas trwania treningu: 19.51400136947632
+INFO:root:Czas trwania obliczania predykcji modelu: 127.62816953659058
+INFO:root:Czas trwania treningu: 19.901997566223145
+INFO:root:Czas trwania obliczania predykcji modelu: 126.97960042953491
+INFO:root:Czas trwania treningu: 19.615994215011597
+INFO:root:Czas trwania obliczania predykcji modelu: 127.04599499702454
+INFO:root:Czas trwania treningu: 19.703515768051147
+INFO:root:Czas trwania obliczania predykcji modelu: 127.06199860572815
+INFO:root:Wynik biezacego modelu: 0.003097989467373981
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 50
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 4
+INFO:root:Czas trwania treningu: 20.93299627304077
+INFO:root:Czas trwania obliczania predykcji modelu: 127.71893405914307
+INFO:root:Czas trwania treningu: 21.77400016784668
+INFO:root:Czas trwania obliczania predykcji modelu: 127.65255641937256
+INFO:root:Czas trwania treningu: 21.296996116638184
+INFO:root:Czas trwania obliczania predykcji modelu: 127.88451671600342
+INFO:root:Czas trwania treningu: 21.594515085220337
+INFO:root:Czas trwania obliczania predykcji modelu: 127.17699885368347
+INFO:root:Czas trwania treningu: 20.74500036239624
+INFO:root:Czas trwania obliczania predykcji modelu: 127.41657638549805
+INFO:root:Wynik biezacego modelu: 0.002004432146015521
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 50
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 24.52151870727539
+INFO:root:Czas trwania obliczania predykcji modelu: 127.42001247406006
+INFO:root:Czas trwania treningu: 23.086002588272095
+INFO:root:Czas trwania obliczania predykcji modelu: 127.41740727424622
+INFO:root:Czas trwania treningu: 22.103997468948364
+INFO:root:Czas trwania obliczania predykcji modelu: 127.82100176811218
+INFO:root:Czas trwania treningu: 24.09199333190918
+INFO:root:Czas trwania obliczania predykcji modelu: 150.73168468475342
+INFO:root:Czas trwania treningu: 25.34626269340515
+INFO:root:Czas trwania obliczania predykcji modelu: 147.19216918945312
+INFO:root:Wynik biezacego modelu: 0.0017779921015690218
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 100
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 1
+INFO:root:Czas trwania treningu: 32.78099846839905
+INFO:root:Czas trwania obliczania predykcji modelu: 277.3260545730591
+INFO:root:Czas trwania treningu: 8.886996984481812
+INFO:root:Czas trwania obliczania predykcji modelu: 62.57765865325928
+INFO:root:Czas trwania treningu: 31.204519510269165
+INFO:root:Czas trwania obliczania predykcji modelu: 363.30947971343994
+INFO:root:Czas trwania treningu: 41.200995206832886
+INFO:root:Czas trwania obliczania predykcji modelu: 323.2865536212921
+INFO:root:Czas trwania treningu: 26.273996591567993
+INFO:root:Czas trwania obliczania predykcji modelu: 239.96279549598694
+INFO:root:Wynik biezacego modelu: 0.021229278232361336
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 100
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 41.57151818275452
+INFO:root:Czas trwania obliczania predykcji modelu: 344.86751103401184
+INFO:root:Czas trwania treningu: 40.33052206039429
+INFO:root:Czas trwania obliczania predykcji modelu: 308.4058530330658
+INFO:root:Czas trwania treningu: 21.29611873626709
+INFO:root:Czas trwania obliczania predykcji modelu: 186.08461904525757
+INFO:root:Czas trwania treningu: 41.13799810409546
+INFO:root:Czas trwania obliczania predykcji modelu: 368.77879786491394
+INFO:root:Czas trwania treningu: 45.66904950141907
+INFO:root:Czas trwania obliczania predykcji modelu: 329.7483389377594
+INFO:root:Wynik biezacego modelu: 0.004762991056458956
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 100
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 3
+INFO:root:Czas trwania treningu: 35.16799783706665
+INFO:root:Czas trwania obliczania predykcji modelu: 291.6985411643982
+INFO:root:Czas trwania treningu: 53.61904191970825
+INFO:root:Czas trwania obliczania predykcji modelu: 412.9162755012512
+INFO:root:Czas trwania treningu: 48.15662360191345
+INFO:root:Czas trwania obliczania predykcji modelu: 398.59266090393066
+INFO:root:Czas trwania treningu: 48.733116149902344
+INFO:root:Czas trwania obliczania predykcji modelu: 328.79796075820923
+INFO:root:Czas trwania treningu: 45.19257569313049
+INFO:root:Czas trwania obliczania predykcji modelu: 380.995836019516
+INFO:root:Wynik biezacego modelu: 0.003132493297872478
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 100
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 4
+INFO:root:Czas trwania treningu: 62.340529441833496
+INFO:root:Czas trwania obliczania predykcji modelu: 441.7528727054596
+INFO:root:Czas trwania treningu: 59.17481231689453
+INFO:root:Czas trwania obliczania predykcji modelu: 279.9846487045288
+INFO:root:Czas trwania treningu: 35.24824929237366
+INFO:root:Czas trwania obliczania predykcji modelu: 271.2501890659332
+INFO:root:Czas trwania treningu: 45.83371329307556
+INFO:root:Czas trwania obliczania predykcji modelu: 295.9117259979248
+INFO:root:Czas trwania treningu: 46.40731644630432
+INFO:root:Czas trwania obliczania predykcji modelu: 266.2799825668335
+INFO:root:Wynik biezacego modelu: 0.002240474656630326
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 100
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 50.763521671295166
+INFO:root:Czas trwania obliczania predykcji modelu: 286.6685280799866
+INFO:root:Czas trwania treningu: 47.88686728477478
+INFO:root:Czas trwania obliczania predykcji modelu: 297.8734872341156
+INFO:root:Czas trwania treningu: 41.517733573913574
+INFO:root:Czas trwania obliczania predykcji modelu: 273.33292531967163
+INFO:root:Czas trwania treningu: 40.978739500045776
+INFO:root:Czas trwania obliczania predykcji modelu: 241.00060606002808
+INFO:root:Czas trwania treningu: 52.92563056945801
+INFO:root:Czas trwania obliczania predykcji modelu: 272.9116864204407
+INFO:root:Wynik biezacego modelu: 0.0018752331496343676
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 150
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 1
+INFO:root:Czas trwania treningu: 57.86347723007202
+INFO:root:Czas trwania obliczania predykcji modelu: 437.1709134578705
+INFO:root:Czas trwania treningu: 34.161993980407715
+INFO:root:Czas trwania obliczania predykcji modelu: 245.6527898311615
+INFO:root:Czas trwania treningu: 22.974867343902588
+INFO:root:Czas trwania obliczania predykcji modelu: 203.2142472267151
+INFO:root:Czas trwania treningu: 31.562997102737427
+INFO:root:Czas trwania obliczania predykcji modelu: 199.40696597099304
+INFO:root:Czas trwania treningu: 33.48100185394287
+INFO:root:Czas trwania obliczania predykcji modelu: 274.33727264404297
+INFO:root:Wynik biezacego modelu: 0.022396507162454986
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 150
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 34.97199726104736
+INFO:root:Czas trwania obliczania predykcji modelu: 252.5981068611145
+INFO:root:Czas trwania treningu: 35.59302639961243
+INFO:root:Czas trwania obliczania predykcji modelu: 258.49834394454956
+INFO:root:Czas trwania treningu: 32.92452120780945
+INFO:root:Czas trwania obliczania predykcji modelu: 240.95469450950623
+INFO:root:Czas trwania treningu: 33.38499712944031
+INFO:root:Czas trwania obliczania predykcji modelu: 239.49122023582458
+INFO:root:Czas trwania treningu: 15.84599232673645
+INFO:root:Czas trwania obliczania predykcji modelu: 98.62118649482727
+INFO:root:Wynik biezacego modelu: 0.0040907690235378645
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 150
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 3
+INFO:root:Czas trwania treningu: 28.235997915267944
+INFO:root:Czas trwania obliczania predykcji modelu: 187.87456011772156
+INFO:root:Czas trwania treningu: 39.802998304367065
+INFO:root:Czas trwania obliczania predykcji modelu: 234.83901691436768
+INFO:root:Czas trwania treningu: 48.019004106521606
+INFO:root:Czas trwania obliczania predykcji modelu: 327.57854175567627
+INFO:root:Czas trwania treningu: 21.371031761169434
+INFO:root:Czas trwania obliczania predykcji modelu: 142.2005672454834
+INFO:root:Czas trwania treningu: 15.909998655319214
+INFO:root:Czas trwania obliczania predykcji modelu: 102.65199947357178
+INFO:root:Wynik biezacego modelu: 0.0029488928324842623
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 150
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 4
+INFO:root:Czas trwania treningu: 50.358999729156494
+INFO:root:Czas trwania obliczania predykcji modelu: 328.2480819225311
+INFO:root:Czas trwania treningu: 50.0086133480072
+INFO:root:Czas trwania obliczania predykcji modelu: 329.495539188385
+INFO:root:Czas trwania treningu: 15.91199278831482
+INFO:root:Czas trwania obliczania predykcji modelu: 91.74000358581543
+INFO:root:Czas trwania treningu: 29.553521156311035
+INFO:root:Czas trwania obliczania predykcji modelu: 177.88718628883362
+INFO:root:Czas trwania treningu: 49.98533582687378
+INFO:root:Czas trwania obliczania predykcji modelu: 328.02284002304077
+INFO:root:Wynik biezacego modelu: 0.002382400412674434
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 150
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 56.00399899482727
+INFO:root:Czas trwania obliczania predykcji modelu: 339.56700921058655
+INFO:root:Czas trwania treningu: 71.12399649620056
+INFO:root:Czas trwania obliczania predykcji modelu: 373.9194667339325
+INFO:root:Czas trwania treningu: 109.0995090007782
+INFO:root:Czas trwania obliczania predykcji modelu: 598.4249255657196
+INFO:root:Czas trwania treningu: 121.86351084709167
+INFO:root:Czas trwania obliczania predykcji modelu: 599.4425618648529
+INFO:root:Czas trwania treningu: 108.98174381256104
+INFO:root:Czas trwania obliczania predykcji modelu: 598.7236549854279
+INFO:root:Wynik biezacego modelu: 0.001984628337780075
+INFO:root:Najlepszy model: liczb_drzew: 50, stala uczenia: 0.65, liczba poziomow: 5, wynik: 0.0017779921015690218

@@ -1,0 +1,10 @@
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 1
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 10.199026107788086
+INFO:root:Czas trwania obliczania predykcji modelu: 74.65781736373901
+INFO:root:Czas trwania treningu: 7.350999593734741
+INFO:root:Czas trwania obliczania predykcji modelu: 53.396026849746704
+INFO:root:Czas trwania treningu: 7.816002607345581
+INFO:root:Czas trwania obliczania predykcji modelu: 54.818137645721436

@@ -1,0 +1,168 @@
+Trenuje SVR o C=0.275 i epsilon=0.006
+Czas treningu modelu: 10.389427900314331s
+Wynik biezacego SVRa: 0.0005331518393354558
+Trenuje SVR o C=0.275 i epsilon=0.007
+Czas treningu modelu: 8.893074989318848s
+Wynik biezacego SVRa: 0.0005771581958887306
+Trenuje SVR o C=0.275 i epsilon=0.008
+Czas treningu modelu: 6.947606563568115s
+Wynik biezacego SVRa: 0.0005758545753617385
+Trenuje SVR o C=0.275 i epsilon=0.009000000000000001
+Czas treningu modelu: 6.0457751750946045s
+Wynik biezacego SVRa: 0.0005932484979730749
+Trenuje SVR o C=0.275 i epsilon=0.01
+Czas treningu modelu: 5.209573984146118s
+Wynik biezacego SVRa: 0.0006253677277588499
+Trenuje SVR o C=0.275 i epsilon=0.011
+Czas treningu modelu: 4.243389129638672s
+Wynik biezacego SVRa: 0.0006614209711790274
+Trenuje SVR o C=0.275 i epsilon=0.012
+Czas treningu modelu: 3.7609903812408447s
+Wynik biezacego SVRa: 0.0006868260221063819
+Trenuje SVR o C=0.275 i epsilon=0.013000000000000001
+Czas treningu modelu: 3.379394054412842s
+Wynik biezacego SVRa: 0.0007185304072473087
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.006
+Czas treningu modelu: 10.719051837921143s
+Wynik biezacego SVRa: 0.0005345445431939076
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.007
+Czas treningu modelu: 9.387551546096802s
+Wynik biezacego SVRa: 0.0005697928770452777
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.008
+Czas treningu modelu: 7.145833969116211s
+Wynik biezacego SVRa: 0.0005963106663206482
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.009000000000000001
+Czas treningu modelu: 5.79259181022644s
+Wynik biezacego SVRa: 0.0006129512765479844
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.01
+Czas treningu modelu: 5.389995336532593s
+Wynik biezacego SVRa: 0.0006296372948006498
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.011
+Czas treningu modelu: 5.083173751831055s
+Wynik biezacego SVRa: 0.000658851019912176
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.012
+Czas treningu modelu: 4.035797834396362s
+Wynik biezacego SVRa: 0.0006849561378669814
+Trenuje SVR o C=0.30000000000000004 i epsilon=0.013000000000000001
+Czas treningu modelu: 3.577977180480957s
+Wynik biezacego SVRa: 0.0007294187764479658
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.006
+Czas treningu modelu: 10.06869387626648s
+Wynik biezacego SVRa: 0.0005232619679229373
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.007
+Czas treningu modelu: 8.563353300094604s
+Wynik biezacego SVRa: 0.0005673366197809955
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.008
+Czas treningu modelu: 6.977155447006226s
+Wynik biezacego SVRa: 0.0005882551074256929
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.009000000000000001
+Czas treningu modelu: 5.716745138168335s
+Wynik biezacego SVRa: 0.0006102141886082815
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.01
+Czas treningu modelu: 4.753920793533325s
+Wynik biezacego SVRa: 0.0006477429671085307
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.011
+Czas treningu modelu: 4.484389305114746s
+Wynik biezacego SVRa: 0.0006604812454341807
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.012
+Czas treningu modelu: 3.7729992866516113s
+Wynik biezacego SVRa: 0.000692631335429124
+Trenuje SVR o C=0.32500000000000007 i epsilon=0.013000000000000001
+Czas treningu modelu: 3.415428400039673s
+Wynik biezacego SVRa: 0.0007342372630578562
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.006
+Czas treningu modelu: 9.774699926376343s
+Wynik biezacego SVRa: 0.0005396281923467063
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.007
+Czas treningu modelu: 9.11141061782837s
+Wynik biezacego SVRa: 0.0005649324570418566
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.008
+Czas treningu modelu: 6.533423662185669s
+Wynik biezacego SVRa: 0.0005883806743550552
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.009000000000000001
+Czas treningu modelu: 5.77323055267334s
+Wynik biezacego SVRa: 0.0006115829398739736
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.01
+Czas treningu modelu: 5.069948673248291s
+Wynik biezacego SVRa: 0.0006377890388362191
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.011
+Czas treningu modelu: 4.146598815917969s
+Wynik biezacego SVRa: 0.0006719800217865904
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.012
+Czas treningu modelu: 3.9189188480377197s
+Wynik biezacego SVRa: 0.0006973458051853038
+Trenuje SVR o C=0.3500000000000001 i epsilon=0.013000000000000001
+Czas treningu modelu: 3.5436439514160156s
+Wynik biezacego SVRa: 0.000723518669637258
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.006
+Czas treningu modelu: 9.780636548995972s
+Wynik biezacego SVRa: 0.0005413948945401455
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.007
+Czas treningu modelu: 9.01351284980774s
+Wynik biezacego SVRa: 0.0005671311864797964
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.008
+Czas treningu modelu: 7.189154624938965s
+Wynik biezacego SVRa: 0.0005905072355201187
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.009000000000000001
+Czas treningu modelu: 5.412001132965088s
+Wynik biezacego SVRa: 0.0006063495165833897
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.01
+Czas treningu modelu: 4.8649468421936035s
+Wynik biezacego SVRa: 0.0006525894218667432
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.011
+Czas treningu modelu: 4.523726224899292s
+Wynik biezacego SVRa: 0.0006706462260882558
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.012
+Czas treningu modelu: 4.314001798629761s
+Wynik biezacego SVRa: 0.0006945093455940271
+Trenuje SVR o C=0.3750000000000001 i epsilon=0.013000000000000001
+Czas treningu modelu: 3.5130343437194824s
+Wynik biezacego SVRa: 0.0007310914959129376
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.006
+Czas treningu modelu: 9.65809416770935s
+Wynik biezacego SVRa: 0.0005397599015111191
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.007
+Czas treningu modelu: 9.455845355987549s
+Wynik biezacego SVRa: 0.0005610755232911813
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.008
+Czas treningu modelu: 7.471034526824951s
+Wynik biezacego SVRa: 0.0005896760210014535
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.009000000000000001
+Czas treningu modelu: 5.9820263385772705s
+Wynik biezacego SVRa: 0.0006184057987119547
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.01
+Czas treningu modelu: 4.678994178771973s
+Wynik biezacego SVRa: 0.0006402283869079126
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.011
+Czas treningu modelu: 4.453999757766724s
+Wynik biezacego SVRa: 0.000668729929922737
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.012
+Czas treningu modelu: 3.742358684539795s
+Wynik biezacego SVRa: 0.0007082999374792844
+Trenuje SVR o C=0.40000000000000013 i epsilon=0.013000000000000001
+Czas treningu modelu: 3.5839967727661133s
+Wynik biezacego SVRa: 0.0007307950325216718
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.006
+Czas treningu modelu: 8.906092643737793s
+Wynik biezacego SVRa: 0.0005430368355602193
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.007
+Czas treningu modelu: 8.439249753952026s
+Wynik biezacego SVRa: 0.0005544587575414221
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.008
+Czas treningu modelu: 7.5607452392578125s
+Wynik biezacego SVRa: 0.0005751802861643589
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.009000000000000001
+Czas treningu modelu: 5.5514233112335205s
+Wynik biezacego SVRa: 0.0006106314306870642
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.01
+Czas treningu modelu: 4.866579055786133s
+Wynik biezacego SVRa: 0.0006518474886760354
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.011
+Czas treningu modelu: 4.153937816619873s
+Wynik biezacego SVRa: 0.0006753941195296712
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.012
+Czas treningu modelu: 3.549523115158081s
+Wynik biezacego SVRa: 0.0007022223728113875
+Trenuje SVR o C=0.42500000000000016 i epsilon=0.013000000000000001
+Czas treningu modelu: 3.5433642864227295s
+Wynik biezacego SVRa: 0.0007380683448978744

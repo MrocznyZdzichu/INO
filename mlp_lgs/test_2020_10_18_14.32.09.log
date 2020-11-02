@@ -1,0 +1,17 @@
+INFO:root:Training network with structure: [10]
+INFO:root:Train no. 1/3
+INFO:root:Model's training time: 78.6722183227539 s
+INFO:root:Validation error: 0.000185919766676274
+INFO:root:Simulation time: 24.971965789794922 s
+INFO:root:Score: 0.0023988263983239066
+INFO:root:Train no. 2/3
+INFO:root:Model's training time: 78.72106504440308 s
+INFO:root:Validation error: 0.00034745065896893147
+INFO:root:Simulation time: 14.964000463485718 s
+INFO:root:Score: 0.0015218665478233953
+INFO:root:Train no. 3/3
+INFO:root:Model's training time: 94.55892634391785 s
+INFO:root:Validation error: 0.0014669786869275407
+INFO:root:Simulation time: 11.324195146560669 s
+INFO:root:Score: 0.00132867290016148
+INFO:root:Best score: 0.00132867290016148

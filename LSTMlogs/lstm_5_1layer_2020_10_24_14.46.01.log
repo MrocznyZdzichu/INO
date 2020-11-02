@@ -1,0 +1,9 @@
+INFO:root:Trenuje siec o strukturze: [4]
+INFO:root:Training time: 1106.034431695938 s
+INFO:root:Wynik sieci nr 1: 0.00014056136427609945
+INFO:root:Training time: 366.49340534210205 s
+INFO:root:Wynik sieci nr 2: 0.00025091300577277854
+INFO:root:Training time: 215.4178228378296 s
+INFO:root:Wynik sieci nr 3: 0.00030764933643274316
+INFO:root:Training time: 634.257942199707 s
+INFO:root:Wynik sieci nr 4: 0.0001289321152466584

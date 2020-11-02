@@ -1,0 +1,76 @@
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 103
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 44.43272018432617
+INFO:root:Czas trwania obliczania predykcji modelu: 330.93775725364685
+INFO:root:Czas trwania treningu: 61.86752128601074
+INFO:root:Czas trwania obliczania predykcji modelu: 302.7035641670227
+INFO:root:Czas trwania treningu: 49.6760356426239
+INFO:root:Czas trwania obliczania predykcji modelu: 346.30443048477173
+INFO:root:Czas trwania treningu: 57.51160478591919
+INFO:root:Czas trwania obliczania predykcji modelu: 364.5713038444519
+INFO:root:Czas trwania treningu: 61.77999806404114
+INFO:root:Czas trwania obliczania predykcji modelu: 479.0617697238922
+INFO:root:Wynik biezacego modelu: 0.001544286201663375
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 104
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 54.28213858604431
+INFO:root:Czas trwania obliczania predykcji modelu: 328.49178314208984
+INFO:root:Czas trwania treningu: 54.7012574672699
+INFO:root:Czas trwania obliczania predykcji modelu: 329.53746914863586
+INFO:root:Czas trwania treningu: 52.96541953086853
+INFO:root:Czas trwania obliczania predykcji modelu: 329.3829607963562
+INFO:root:Czas trwania treningu: 53.4708297252655
+INFO:root:Czas trwania obliczania predykcji modelu: 333.68067383766174
+INFO:root:Czas trwania treningu: 56.2652313709259
+INFO:root:Czas trwania obliczania predykcji modelu: 329.06989192962646
+INFO:root:Wynik biezacego modelu: 0.0015562972953570905
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 105
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 54.0418221950531
+INFO:root:Czas trwania obliczania predykcji modelu: 333.5249037742615
+INFO:root:Czas trwania treningu: 55.68306541442871
+INFO:root:Czas trwania obliczania predykcji modelu: 333.76944851875305
+INFO:root:Czas trwania treningu: 53.50582528114319
+INFO:root:Czas trwania obliczania predykcji modelu: 332.8653893470764
+INFO:root:Czas trwania treningu: 57.314964294433594
+INFO:root:Czas trwania obliczania predykcji modelu: 337.89030051231384
+INFO:root:Czas trwania treningu: 54.238335609436035
+INFO:root:Czas trwania obliczania predykcji modelu: 264.2668161392212
+INFO:root:Wynik biezacego modelu: 0.0017534538386792331
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 106
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 41.48338961601257
+INFO:root:Czas trwania obliczania predykcji modelu: 263.42049050331116
+INFO:root:Czas trwania treningu: 40.42353940010071
+INFO:root:Czas trwania obliczania predykcji modelu: 272.36325120925903
+INFO:root:Czas trwania treningu: 37.13475060462952
+INFO:root:Czas trwania obliczania predykcji modelu: 220.40333533287048
+INFO:root:Czas trwania treningu: 42.824227809906006
+INFO:root:Czas trwania obliczania predykcji modelu: 326.15049290657043
+INFO:root:Czas trwania treningu: 52.76852107048035
+INFO:root:Czas trwania obliczania predykcji modelu: 335.28506875038147
+INFO:root:Wynik biezacego modelu: 0.0019127267005219913
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 107
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 55.47395873069763
+INFO:root:Czas trwania obliczania predykcji modelu: 339.04297041893005
+INFO:root:Czas trwania treningu: 53.02360200881958
+INFO:root:Czas trwania obliczania predykcji modelu: 340.49858498573303
+INFO:root:Czas trwania treningu: 56.69625449180603
+INFO:root:Czas trwania obliczania predykcji modelu: 337.3889787197113
+INFO:root:Czas trwania treningu: 21.26389193534851
+INFO:root:Czas trwania obliczania predykcji modelu: 126.1217770576477
+INFO:root:Czas trwania treningu: 58.75218725204468
+INFO:root:Czas trwania obliczania predykcji modelu: 341.1148273944855
+INFO:root:Wynik biezacego modelu: 0.001735574782690448
+INFO:root:Najlepszy model: liczb_drzew: 103, stala uczenia: 0.65, liczba poziomow: 5, wynik: 0.001544286201663375

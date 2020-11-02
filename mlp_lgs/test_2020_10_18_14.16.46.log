@@ -1,0 +1,15 @@
+INFO:root:Train no. 1/3
+INFO:root:Model's training time: 26.85899519920349 s
+INFO:root:Validation error: 0.0034889882432571242
+INFO:root:Simulation time: 20.21952223777771 s
+INFO:root:Score: 0.0016087826411797731
+INFO:root:Train no. 2/3
+INFO:root:Model's training time: 35.23500108718872 s
+INFO:root:Validation error: 0.004595944712065465
+INFO:root:Simulation time: 24.92754316329956 s
+INFO:root:Score: 0.0021204299027330516
+INFO:root:Train no. 3/3
+INFO:root:Model's training time: 29.388153076171875 s
+INFO:root:Validation error: 0.005354984058646415
+INFO:root:Simulation time: 13.51155161857605 s
+INFO:root:Score: 0.0017828704529159953

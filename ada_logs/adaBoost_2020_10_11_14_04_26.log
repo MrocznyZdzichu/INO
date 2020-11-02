@@ -1,0 +1,23 @@
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 1
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 8.094999313354492
+INFO:root:Czas trwania obliczania predykcji modelu: 52.61271667480469
+INFO:root:Czas trwania treningu: 7.667994976043701
+INFO:root:Czas trwania obliczania predykcji modelu: 51.981797218322754
+INFO:root:Czas trwania treningu: 7.375000476837158
+INFO:root:Czas trwania obliczania predykcji modelu: 53.56399583816528
+INFO:root:Wynik bie¿¹cego modelu: 0.0051046542834344765
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 20
+INFO:root:Learning rate: 0.9
+INFO:root:Max depth: 2
+INFO:root:Czas trwania treningu: 7.446000099182129
+INFO:root:Czas trwania obliczania predykcji modelu: 51.72799825668335
+INFO:root:Czas trwania treningu: 7.448999404907227
+INFO:root:Czas trwania obliczania predykcji modelu: 51.94500017166138
+INFO:root:Czas trwania treningu: 7.42299747467041
+INFO:root:Czas trwania obliczania predykcji modelu: 51.59911298751831
+INFO:root:Wynik bie¿¹cego modelu: 0.00979832632878377
+INFO:root:Najlepszy model: liczb_drzew: 20, sta³a uczenia: 1, liczba poziomów: 2, wynik: 0.0051046542834344765

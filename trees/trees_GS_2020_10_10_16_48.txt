@@ -1,0 +1,8 @@
+INFO:root:Trenuje drzewo o CP: 1e-07
+INFO:root:Czas treningu modelu: 66.25540852546692s
+INFO:root:Czas treningu modelu: 66.85498094558716s
+INFO:root:Czas treningu modelu: 66.96750712394714s
+INFO:root:Czas treningu modelu: 67.6048526763916s
+INFO:root:Czas treningu modelu: 65.09899854660034s
+INFO:root:Wynik biezacego drzewa: 0.0027878778124399107
+INFO:root:Trenuje drzewo o CP: 0.00010121010101010101
