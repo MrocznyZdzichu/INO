@@ -222,7 +222,7 @@ INFO:root:Czas trwania treningu: 24.09199333190918
 INFO:root:Czas trwania obliczania predykcji modelu: 150.73168468475342
 INFO:root:Czas trwania treningu: 25.34626269340515
 INFO:root:Czas trwania obliczania predykcji modelu: 147.19216918945312
-INFO:root:Wynik biezacego modelu: 0.0017779921015690218
+INFO:root:Wynik biezacego modelu: 0.001979921015690218
 INFO:root:AdaBoost training parameters:
 INFO:root:Number of estimators: 100
 INFO:root:Learning rate: 0.65

@@ -1,0 +1,9 @@
+Numer scenariusza& 0& 1& 2& 3& 4& 5& 6\\\hline
+MSE $\cdot 10^{-4}$& 11.61& 4.87& 2.48& 27.61& 57.32& 6.31& 100.13\\\hline
+max error& 0.201& 0.198& 0.09& 0.557& 0.149& 0.188& 0.163\\\hline
+Czas symulacji [s]& 24.96& 23.99& 14.09& 3.93& 2.72& 3.2& 21.31\\\hline
+
+Numer scenariusza\\\hline
+MSE $\cdot 10^{-4}$\\\hline
+max error\\\hline
+Czas symulacji [s]\\\hline

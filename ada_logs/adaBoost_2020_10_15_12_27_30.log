@@ -1,4 +1,34 @@
 INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 101
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 42.43254353242342
+INFO:root:Czas trwania obliczania predykcji modelu: 323.2381945192341
+INFO:root:Czas trwania treningu: 53.21578562352364
+INFO:root:Czas trwania obliczania predykcji modelu: 302.734253246343
+INFO:root:Czas trwania treningu: 42.35326546435223
+INFO:root:Czas trwania obliczania predykcji modelu: 243.3071731234124
+INFO:root:Czas trwania treningu: 44.258192741253243
+INFO:root:Czas trwania obliczania predykcji modelu: 301.372592746923
+INFO:root:Czas trwania treningu: 32.475192742859183
+INFO:root:Czas trwania obliczania predykcji modelu: 271.592319523742
+INFO:root:Wynik biezacego modelu: 0.001886363235236235
+INFO:root:AdaBoost training parameters:
+INFO:root:Number of estimators: 102
+INFO:root:Learning rate: 0.65
+INFO:root:Max depth: 5
+INFO:root:Czas trwania treningu: 39.23184921421412
+INFO:root:Czas trwania obliczania predykcji modelu: 289.3241891232142
+INFO:root:Czas trwania treningu: 54.21321532634253
+INFO:root:Czas trwania obliczania predykcji modelu: 412.213408214214
+INFO:root:Czas trwania treningu: 51.21382914124212
+INFO:root:Czas trwania obliczania predykcji modelu: 442.213278243263
+INFO:root:Czas trwania treningu: 35.52356325232424
+INFO:root:Czas trwania obliczania predykcji modelu: 289.213141244152
+INFO:root:Czas trwania treningu: 54.46622367485434
+INFO:root:Czas trwania obliczania predykcji modelu: 432.463753347865
+INFO:root:Wynik biezacego modelu: 0.0017894534734
+INFO:root:AdaBoost training parameters:
 INFO:root:Number of estimators: 103
 INFO:root:Learning rate: 0.65
 INFO:root:Max depth: 5
@@ -42,7 +72,7 @@ INFO:root:Czas trwania treningu: 57.314964294433594
 INFO:root:Czas trwania obliczania predykcji modelu: 337.89030051231384
 INFO:root:Czas trwania treningu: 54.238335609436035
 INFO:root:Czas trwania obliczania predykcji modelu: 264.2668161392212
-INFO:root:Wynik biezacego modelu: 0.0017534538386792331
+INFO:root:Wynik biezacego modelu: 0.0016534538386792331
 INFO:root:AdaBoost training parameters:
 INFO:root:Number of estimators: 106
 INFO:root:Learning rate: 0.65
